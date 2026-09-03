@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-03",
+  "datasets": {
+    "meta": {
+      "version": "2026-09-03.1",
+      "sha256": "52e476926c47e888375e0c240e223a2c30e265045413e4cc2c1523668e20c141",
+      "bytes": 1812,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-03.1.json"
+    },
+    "enrichment": {
+      "version": "2026-09-03.1",
+      "sha256": "0b9708275d168abdf235bdb8d60264a264d27517d1326822b92ff59d5ba6506f",
+      "bytes": 711481,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-03.1.json"
+    },
+    "gst-notifications": {
+      "version": "2026-09-03.1",
+      "sha256": "f13eae2499004773fc641bb81b498685c271dc4d850d4f42c1f577d6aea81a08",
+      "bytes": 3955373,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-09-03.1.json"
+    },
+    "gst-circulars": {
+      "version": "2026-09-03.1",
+      "sha256": "1c8b74b86f093c1d009c487a3d06e3592fe68741ab530add39d0859123a9b167",
+      "bytes": 2425394,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-09-03.1.json"
+    },
+    "gst-instructions": {
+      "version": "2026-09-03.1",
+      "sha256": "56958eef3a8febea0d700cdea2faf54683871cc3529533dbbc50f42531c32693",
+      "bytes": 325491,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-instructions.2026-09-03.1.json"
+    },
+    "gst-orders": {
+      "version": "2026-09-03.1",
+      "sha256": "cc4cb5c08697693985accf31d5c49cc8015b81ac09c01cd5dffddfaa18acde0b",
+      "bytes": 76903,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-orders.2026-09-03.1.json"
+    },
+    "instrument-status": {
+      "version": "2026-09-03.1",
+      "sha256": "e896e240002f4173654ddb92b549c7a530b0d8cf80be5f0d0cddb8368644712c",
+      "bytes": 13042,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-03.1.json"
+    },
+    "gstn-advisories": {
+      "version": "2026-09-03.1",
+      "sha256": "3571ce372f842f6152cf140575adda5deaa26ce6389f696723f5a1ad087691e5",
+      "bytes": 1169653,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-09-03.1.json"
+    },
+    "gst-faqs": {
+      "version": "2026-09-03.1",
+      "sha256": "c8a2254cdd1a28a808d334210658774cf66e182b10f8852120a5f383c853f680",
+      "bytes": 1025017,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-faqs.2026-09-03.1.json"
+    },
+    "gst-forms": {
+      "version": "2026-09-03.1",
+      "sha256": "883e7866f18f01c2d61eb20a7cf8a827cd88c4e93d69f227a2ebd8ae0b5a2215",
+      "bytes": 783969,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-09-03.1.json"
+    },
+    "gst-rates": {
+      "version": "2026-09-03.1",
+      "sha256": "7c6e5f6f14f3317732e0a4542f5407f85ad88862f9a65b89b99ff12de80c5e50",
+      "bytes": 837144,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-03.1.json"
+    },
+    "search-index": {
+      "version": "2026-09-03.1",
+      "sha256": "9a7a4738c6538bc92a070b468bc349907c4aa5e1f7bb526c131b03c137a40a91",
+      "bytes": 962555,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-09-03.1.json"
+    },
+    "semantic-index": {
+      "version": "2026-09-03.1",
+      "sha256": "e19a0ba34ce061d949b1a540ef79aef0c72daa917b618f5fbec25416571a0319",
+      "bytes": 310746,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/semantic-index.2026-09-03.1.json"
+    },
+    "dense-index": {
+      "version": "2026-09-03.1",
+      "sha256": "e0009055104643734d50f834dcaf411703791033ac9727c805ba730e1d8ec4ea",
+      "bytes": 424427,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/dense-index.2026-09-03.1.json"
+    },
+    "instrument-index": {
+      "version": "2026-09-03.1",
+      "sha256": "820179124d692e05a192bcc2b81edca7b583dbaf7372bb0214e514ee7f7c65e1",
+      "bytes": 169150,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-index.2026-09-03.1.json"
+    },
+    "forms-index": {
+      "version": "2026-09-03.1",
+      "sha256": "985a25a904df3c535c03689c8a70b2915cc2a49cf4e65044315414fac16a8b06",
+      "bytes": 13019,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/forms-index.2026-09-03.1.json"
+    }
+  },
+  "changelog": [
+    {
+      "version": "2026-09-03.1",
+      "date": "2026-09-03",
+      "note": "Initial data package \u2014 corpus as of 2026-09-03 (incl. GSTN advisory #670)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "edition": "ICAI GST Act(s) and Rule(s) - Bare Law, 12th Edition (April 2026)",
+  "amendedUpto": "2026-03-31",
+  "parsedOn": "2026-09-03",
+  "disclaimer": "Statutory text reproduced from the ICAI 'GST Act(s) and Rule(s) - Bare Law' (12th ed., amendments to 31 March 2026) for study and reference. Verify against the Gazette / CBIC before any authoritative use. Not legal advice.",
+  "source": "GST Act(s) and Rule(s)-Bare Law.md",
+  "acts": {
+    "cgst": {
+      "name": "CGST Act, 2017",
+      "short": "CGST",
+      "actNo": "12 of 2017",
+      "appointed": "2017-07-01"
+    },
+    "igst": {
+      "name": "IGST Act, 2017",
+      "short": "IGST",
+      "actNo": "13 of 2017",
+      "appointed": "2017-07-01"
+    },
+    "utgst": {
+      "name": "UTGST Act, 2017",
+      "short": "UTGST",
+      "actNo": "14 of 2017",
+      "appointed": "2017-07-01"
+    },
+    "cess": {
+      "name": "GST (Compensation to States) Act, 2017",
+      "short": "Cess",
+      "actNo": "15 of 2017",
+      "appointed": "2017-07-01"
+    },
+    "constitution": {
+      "name": "Constitution (101st Amendment) Act, 2016",
+      "short": "Const.",
+      "actNo": "",
+      "appointed": "2016-09-16"
+    },
+    "finance-act-2026": {
+      "name": "Finance Act, 2026",
+      "short": "FA 2026",
+      "actNo": "4 of 2026",
+      "appointed": null
+    }
+  },
+  "rulesets": {
+    "cgst-rules": {
+      "name": "CGST Rules, 2017",
+      "short": "CGST Rules",
+      "appointed": "2017-06-22"
+    },
+    "igst-rules": {
+      "name": "IGST Rules, 2017",
+      "short": "IGST Rules",
+      "appointed": "2017-06-28"
+    }
+  },
+  "counts": {
+    "provisions": 484,
+    "sections": 262,
+    "rules": 222,
+    "amendments": 899,
+    "instruments": 130,
+    "forms": 195,
+    "definitions": 168,
+    "schedules": 3,
+    "practiceNotes": 4
+  }
+}
