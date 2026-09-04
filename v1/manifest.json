@@ -9,10 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-03.1.json"
     },
     "enrichment": {
+      "version": "2026-09-04.2",
+      "sha256": "69f09599fea755ceebc8bf5ffe2b6459ff57ce70b209dcedfebe2f4c840e7253",
+      "bytes": 722405,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-04.2.json"
+    },
+    "caselaw": {
       "version": "2026-09-04.1",
-      "sha256": "bca539c6b0c699ca205a7457562069a77924749d8d33ecaa2c1b4dfe7d33f68e",
-      "bytes": 719663,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-04.1.json"
+      "sha256": "9edcc54b907fcffeafa1b5d3c16672f6380005658cb8b1ad31efec7911d36015",
+      "bytes": 47099,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-09-04.1.json"
     },
     "gst-notifications": {
       "version": "2026-09-03.1",
@@ -100,6 +106,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-04.2",
+      "date": "2026-09-04",
+      "note": "Add the Case law browser dataset; enrichment case notes gain stable ids"
+    },
     {
       "version": "2026-09-04.1",
       "date": "2026-09-04",
