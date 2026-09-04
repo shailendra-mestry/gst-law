@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03",
+  "generatedAt": "2026-09-04",
   "datasets": {
     "meta": {
       "version": "2026-09-03.1",
@@ -9,10 +9,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-03.1.json"
     },
     "enrichment": {
-      "version": "2026-09-03.1",
-      "sha256": "0b9708275d168abdf235bdb8d60264a264d27517d1326822b92ff59d5ba6506f",
-      "bytes": 711481,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-03.1.json"
+      "version": "2026-09-04.1",
+      "sha256": "bca539c6b0c699ca205a7457562069a77924749d8d33ecaa2c1b4dfe7d33f68e",
+      "bytes": 719663,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-04.1.json"
     },
     "gst-notifications": {
       "version": "2026-09-03.1",
@@ -100,6 +100,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-04.1",
+      "date": "2026-09-04",
+      "note": "Add SC ruling: State of Jharkhand v. BLA Infrastructure \u2014 pre-deposit refund after a won appeal is governed by s.107(6) r/w s.115, not s.54"
+    },
     {
       "version": "2026-09-03.1",
       "date": "2026-09-03",
