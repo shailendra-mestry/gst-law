@@ -1,8 +1,8 @@
 {
-  "edition": "ICAI GST Act(s) and Rule(s) - Bare Law, 12th Edition (April 2026)",
+  "edition": "CBIC GST Portal (taxinformation.cbic.gov.in)",
   "amendedUpto": "2026-03-31",
   "parsedOn": "2026-09-03",
-  "disclaimer": "Statutory text reproduced from the ICAI 'GST Act(s) and Rule(s) - Bare Law' (12th ed., amendments to 31 March 2026) for study and reference. Verify against the Gazette / CBIC before any authoritative use. Not legal advice.",
+  "disclaimer": "Statutory text reproduced from the CBIC GST Portal (taxinformation.cbic.gov.in), amendments to 31 March 2026, for study and reference. Verify against the Gazette / CBIC before any authoritative use. Not legal advice.",
   "source": "GST Act(s) and Rule(s)-Bare Law.md",
   "acts": {
     "cgst": {
