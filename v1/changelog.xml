@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>GST law — data updates</title>
+  <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
+  <description>Every data refresh shipped to the GST law app.</description>
+  <lastBuildDate>Mon, 07 Sep 2026 15:57:48 GMT</lastBuildDate>
+    <item>
+      <title>GSTN advisory 671 (7 Sep 2026) — appeal in APL-01 now enabled for NIL / Zero demand orders</title>
+      <pubDate>Mon, 07 Sep 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-07.1</guid>
+      <description>2026-09-07 · package 2026-09-07.1</description>
+    </item>
+    <item>
+      <title>Add Amit Cotton Industries v. Principal Commissioner (Guj HC 2019) to Rule 96; Rule 96(10) omission note</title>
+      <pubDate>Sun, 06 Sep 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-06.1</guid>
+      <description>2026-09-06 · package 2026-09-06.1</description>
+    </item>
+    <item>
+      <title>Add the Case law browser dataset; enrichment case notes gain stable ids</title>
+      <pubDate>Fri, 04 Sep 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-04.2</guid>
+      <description>2026-09-04 · package 2026-09-04.2</description>
+    </item>
+    <item>
+      <title>Add SC ruling: State of Jharkhand v. BLA Infrastructure — pre-deposit refund after a won appeal is governed by s.107(6) r/w s.115, not s.54</title>
+      <pubDate>Fri, 04 Sep 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-04.1</guid>
+      <description>2026-09-04 · package 2026-09-04.1</description>
+    </item>
+    <item>
+      <title>Initial data package — corpus as of 2026-09-03 (incl. GSTN advisory #670)</title>
+      <pubDate>Thu, 03 Sep 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-03.1</guid>
+      <description>2026-09-03 · package 2026-09-03.1</description>
+    </item>
+</channel></rss>

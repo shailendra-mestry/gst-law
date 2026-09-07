@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-06",
+  "generatedAt": "2026-09-07",
   "datasets": {
     "meta": {
       "version": "2026-09-06.1",
@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-03.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-09-03.1",
-      "sha256": "3571ce372f842f6152cf140575adda5deaa26ce6389f696723f5a1ad087691e5",
-      "bytes": 1169653,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-09-03.1.json"
+      "version": "2026-09-07.1",
+      "sha256": "3534657e9feae1d43dd69e1de8f119e8468fc2d5dc9847d321d31d43f98ae0e7",
+      "bytes": 1170626,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-09-07.1.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -106,6 +106,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-07.1",
+      "date": "2026-09-07",
+      "note": "GSTN advisory 671 (7 Sep 2026) \u2014 appeal in APL-01 now enabled for NIL / Zero demand orders"
+    },
     {
       "version": "2026-09-06.1",
       "date": "2026-09-06",
