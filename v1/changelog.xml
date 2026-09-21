@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Mon, 07 Sep 2026 15:57:48 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 04:38:01 GMT</lastBuildDate>
+    <item>
+      <title>GSTN advisory 672 (19 Sep 2026) — emSigner v3.3 for digital-signature tokens issued from 21 Sep 2026</title>
+      <pubDate>Mon, 21 Sep 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-21.1</guid>
+      <description>2026-09-21 · package 2026-09-21.1</description>
+    </item>
     <item>
       <title>GSTN advisory 671 (7 Sep 2026) — appeal in APL-01 now enabled for NIL / Zero demand orders</title>
       <pubDate>Mon, 07 Sep 2026 06:30:00 GMT</pubDate>

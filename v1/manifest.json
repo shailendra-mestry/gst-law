@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07",
+  "generatedAt": "2026-09-21",
   "datasets": {
     "meta": {
       "version": "2026-09-06.1",
@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-03.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-09-07.1",
-      "sha256": "3534657e9feae1d43dd69e1de8f119e8468fc2d5dc9847d321d31d43f98ae0e7",
-      "bytes": 1170626,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-09-07.1.json"
+      "version": "2026-09-21.1",
+      "sha256": "58aca4c685a3ed1d0f865ea83017819b766e497e4c3315f75feae1742886d27f",
+      "bytes": 1174873,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-09-21.1.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -106,6 +106,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-21.1",
+      "date": "2026-09-21",
+      "note": "GSTN advisory 672 (19 Sep 2026) \u2014 emSigner v3.3 for digital-signature tokens issued from 21 Sep 2026"
+    },
     {
       "version": "2026-09-07.1",
       "date": "2026-09-07",
