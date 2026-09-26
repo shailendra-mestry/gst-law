@@ -21,28 +21,28 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-09-26.1.json"
     },
     "gst-notifications": {
-      "version": "2026-09-26.1",
-      "sha256": "94d821d5dd719da345cbfd15d64db5792b8444d0ada952b181e53aba1863b39a",
-      "bytes": 8827038,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-09-26.1.json"
+      "version": "2026-09-26.2",
+      "sha256": "91d7f2a9c6565808405c32717e7277f6df3ab7d076d410c6ec77493cfd000926",
+      "bytes": 8843313,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-09-26.2.json"
     },
     "gst-circulars": {
-      "version": "2026-09-26.1",
-      "sha256": "522567e16c175812b2922fcf72bc5d49ec07aeacaccaf011ae1b20c4df07b579",
-      "bytes": 2553819,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-09-26.1.json"
+      "version": "2026-09-26.2",
+      "sha256": "12c5c06fdb10de39474da21fa7d8da7e4a38582019cb5bc98c60995ee1371d41",
+      "bytes": 2558031,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-09-26.2.json"
     },
     "gst-instructions": {
-      "version": "2026-09-26.1",
-      "sha256": "0153c291642e00928e7b5c900227747ac993c293ad504611ce99d8b1e1c78cc1",
-      "bytes": 390456,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-instructions.2026-09-26.1.json"
+      "version": "2026-09-26.2",
+      "sha256": "25d7782e73784733102e3b099e66a1f16c035bc8ace42e3194ed95e003a6ff18",
+      "bytes": 392631,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-instructions.2026-09-26.2.json"
     },
     "gst-orders": {
-      "version": "2026-09-26.1",
-      "sha256": "74271c7b830e77e4f0bf8a52498ae363b776250a282b610ad86e5d33309f38ff",
-      "bytes": 83689,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-orders.2026-09-26.1.json"
+      "version": "2026-09-26.2",
+      "sha256": "0deba92adafa0eef095e5635adbd52f30078cb3fa2faba4070ee09ccc7328fbb",
+      "bytes": 83829,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-orders.2026-09-26.2.json"
     },
     "instrument-status": {
       "version": "2026-09-26.1",
@@ -87,10 +87,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-09-26.1.json"
     },
     "semantic-index": {
-      "version": "2026-09-26.1",
-      "sha256": "f518e91ffb7aa6e28cbe8464dc18afaa6f6c380737223f5b12682538ac50edf2",
-      "bytes": 1223131,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/semantic-index.2026-09-26.1.json"
+      "version": "2026-09-26.2",
+      "sha256": "6df03bfccad5d3286f821f8b539ec4d4a4b930710248ab266e1c18a9e188e74a",
+      "bytes": 1238688,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/semantic-index.2026-09-26.2.json"
     },
     "dense-index": {
       "version": "2026-09-03.1",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-26.2",
+      "date": "2026-09-26",
+      "note": "Circulars, notifications, instructions and orders: paragraphs no longer run together (lettered/roman sub-paragraphs, long numbered lists, sub-section references)"
+    },
     {
       "version": "2026-09-26.1",
       "date": "2026-09-26",

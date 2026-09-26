@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Sat, 26 Sep 2026 09:12:34 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 10:21:53 GMT</lastBuildDate>
+    <item>
+      <title>Circulars, notifications, instructions and orders: paragraphs no longer run together (lettered/roman sub-paragraphs, long numbered lists, sub-section references)</title>
+      <pubDate>Sat, 26 Sep 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-26.2</guid>
+      <description>2026-09-26 · package 2026-09-26.2</description>
+    </item>
     <item>
       <title>67 landmark rulings with outcome filters, case-law and guide updates, law changes to date carried through; data schema 2 (needs vc20 or later)</title>
       <pubDate>Sat, 26 Sep 2026 06:30:00 GMT</pubDate>
