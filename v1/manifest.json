@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-09-26.1",
-      "sha256": "07cd5c9bf893f3b302301fadeaf56fdb517aeb8ba10e942b030fe4a631b50757",
-      "bytes": 870988,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-26.1.json"
+      "version": "2026-09-26.2",
+      "sha256": "e3543bcd8adcb8d199b6dc5980ed7a8b2d2cefa3b20e11d519833b3e8c89af22",
+      "bytes": 881758,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-26.2.json"
     },
     "caselaw": {
-      "version": "2026-09-26.1",
-      "sha256": "9a9fff5e19481bfe6eca77ce55f93a411ec94441f988232e48b09f766b2da606",
-      "bytes": 573963,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-09-26.1.json"
+      "version": "2026-09-26.2",
+      "sha256": "e3f5057d707c300569e04d3e6e86fadacaa9e9f790f88a56c602ee105e5eac12",
+      "bytes": 582646,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-09-26.2.json"
     },
     "gst-notifications": {
       "version": "2026-09-26.2",
@@ -69,10 +69,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-09-26.1.json"
     },
     "gst-rates": {
-      "version": "2026-09-26.1",
-      "sha256": "b276e159d7281dff3d77c41965de7de68a43cd068fe816cb6452982961decb61",
+      "version": "2026-09-26.2",
+      "sha256": "fe656dc12010518fed4e85adef44319d08371d374f3c3ca4c498975c8e4f134b",
       "bytes": 870639,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-26.1.json"
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-26.2.json"
     },
     "hsn-master": {
       "version": "2026-09-26.1",
@@ -87,10 +87,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-09-26.1.json"
     },
     "semantic-index": {
-      "version": "2026-09-26.2",
-      "sha256": "6df03bfccad5d3286f821f8b539ec4d4a4b930710248ab266e1c18a9e188e74a",
-      "bytes": 1238688,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/semantic-index.2026-09-26.2.json"
+      "version": "2026-09-26.3",
+      "sha256": "04745bc3b0916ee17c37787cb3eee21579eb2f5e48a437965e721e8554a59c9d",
+      "bytes": 1239536,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/semantic-index.2026-09-26.3.json"
     },
     "dense-index": {
       "version": "2026-09-03.1",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-26.3",
+      "date": "2026-09-26",
+      "note": "Real estate sector hub: 4 new case notes (JDA, TDR, RWA), construction rate labels corrected"
+    },
     {
       "version": "2026-09-26.2",
       "date": "2026-09-26",
