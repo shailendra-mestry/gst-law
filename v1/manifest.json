@@ -21,16 +21,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-09-26.2.json"
     },
     "gst-notifications": {
-      "version": "2026-09-27.2",
-      "sha256": "ad7ca968b011cfde6bbbd33fffe8b138725298954da9f9d71f0ff86ddd206685",
-      "bytes": 8840675,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-09-27.2.json"
+      "version": "2026-09-27.3",
+      "sha256": "0ea9a90835d99b4d337dea7994f98658714b839506eb9637a02c60e247d850b7",
+      "bytes": 8838694,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-09-27.3.json"
     },
     "gst-circulars": {
-      "version": "2026-09-27.1",
-      "sha256": "6ad7c56d818cf33c16ca9f654d0eed86e126e224e070002877ce2f75e4ea61a4",
-      "bytes": 2558031,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-09-27.1.json"
+      "version": "2026-09-27.2",
+      "sha256": "e3dce77d3f8e414ba4278187fe15b0b623cf6ddcafc933d6eb5dc81250a69ad2",
+      "bytes": 2557500,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-09-27.2.json"
     },
     "gst-instructions": {
       "version": "2026-09-26.2",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-27.3",
+      "date": "2026-09-27",
+      "note": "Section and rule references in Integrated / Union Territory Tax notifications that name no Act now open the right one (UTGST s.22, IGST ss.5, 12 and 13, the IGST Rules' own rules 2-5); other statutes' sections, Gazette \"Part-I, Section 1\" lines and sub-section numbers written without brackets no longer link into CGST"
+    },
     {
       "version": "2026-09-27.2",
       "date": "2026-09-27",
