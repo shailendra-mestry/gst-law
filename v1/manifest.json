@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-09-26.2",
-      "sha256": "e3543bcd8adcb8d199b6dc5980ed7a8b2d2cefa3b20e11d519833b3e8c89af22",
-      "bytes": 881758,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-26.2.json"
+      "version": "2026-09-27.1",
+      "sha256": "b9f656f4e8dbbc20fef83f28030e34459aaaf63ccee24202a181e107fc577a21",
+      "bytes": 883971,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-27.1.json"
     },
     "caselaw": {
-      "version": "2026-09-26.2",
-      "sha256": "e3f5057d707c300569e04d3e6e86fadacaa9e9f790f88a56c602ee105e5eac12",
-      "bytes": 582646,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-09-26.2.json"
+      "version": "2026-09-27.1",
+      "sha256": "80ac5530e880152f23c454b20865dac20f936f9b463e7c686085ba32736aecd3",
+      "bytes": 584917,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-09-27.1.json"
     },
     "gst-notifications": {
       "version": "2026-09-27.3",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-27.3",
+      "date": "2026-09-27",
+      "note": "Case law: Mercedes-Benz India v. Union of India (Bombay High Court, 2025 \u2014 ground clearance for compensation cess on SUVs) added to Cess section 8; Munjaal Manishbhai Bhatt now records the pending Supreme Court appeal, SLP (C) No. 21703 of 2022"
+    },
     {
       "version": "2026-09-27.3",
       "date": "2026-09-27",
