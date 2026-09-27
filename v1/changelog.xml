@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
   <title>GST law — data updates</title>
-  <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
+  <link>https://data.gstlaw.app/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Sun, 27 Sep 2026 13:11:50 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 15:27:28 GMT</lastBuildDate>
+    <item>
+      <title>dry run</title>
+      <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-27.3</guid>
+      <description>2026-09-27 · package 2026-09-27.3</description>
+    </item>
     <item>
       <title>Case law: Mercedes-Benz India v. Union of India (Bombay High Court, 2025 — ground clearance for compensation cess on SUVs) added to Cess section 8; Munjaal Manishbhai Bhatt now records the pending Supreme Court appeal, SLP (C) No. 21703 of 2022</title>
       <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
