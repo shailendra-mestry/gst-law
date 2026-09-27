@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
   <title>GST law — data updates</title>
-  <link>https://data.gstlaw.app/v1/changelog.html</link>
+  <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Sun, 27 Sep 2026 15:27:28 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 19:28:36 GMT</lastBuildDate>
     <item>
       <title>dry run</title>
       <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
