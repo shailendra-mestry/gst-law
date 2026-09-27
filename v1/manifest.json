@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-26",
+  "generatedAt": "2026-09-27",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -69,10 +69,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-09-26.1.json"
     },
     "gst-rates": {
-      "version": "2026-09-26.2",
-      "sha256": "fe656dc12010518fed4e85adef44319d08371d374f3c3ca4c498975c8e4f134b",
-      "bytes": 870639,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-26.2.json"
+      "version": "2026-09-27.1",
+      "sha256": "fd70b375cc651abd3b8b8c4caca70f01153ade2b73bad46d8eb917f3744e2127",
+      "bytes": 890190,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-27.1.json"
     },
     "hsn-master": {
       "version": "2026-09-26.1",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-27.1",
+      "date": "2026-09-27",
+      "note": "Rate finder: the 2017-2025 rate histories read from every amendment (tiles, paints, plywood, lifts cut to 18% in 2017-18; EV chargers, fertilisers, cartons), Nil since 2017 for goods exempt from the start, TMT bars (7214) found, and the pure-labour exemption under SAC 9954"
+    },
     {
       "version": "2026-09-26.3",
       "date": "2026-09-26",
