@@ -21,10 +21,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-09-26.2.json"
     },
     "gst-notifications": {
-      "version": "2026-09-26.2",
-      "sha256": "91d7f2a9c6565808405c32717e7277f6df3ab7d076d410c6ec77493cfd000926",
-      "bytes": 8843313,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-09-26.2.json"
+      "version": "2026-09-27.1",
+      "sha256": "b2573ae8102bdd5689a2f968b237d2813289d21fb81a75741fc53bee8bb97c18",
+      "bytes": 8841896,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-09-27.1.json"
     },
     "gst-circulars": {
       "version": "2026-09-26.2",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-27.1",
+      "date": "2026-09-27",
+      "note": "Notifications: the Scheme of Classification's own \"Section 5\"-\"Section 9\" (annexure to 11/2017-CT(R) and the 2017 rate / exemption schedules) no longer link to CGST sections 5-9"
+    },
     {
       "version": "2026-09-27.1",
       "date": "2026-09-27",
