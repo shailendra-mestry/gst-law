@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Sun, 27 Sep 2026 19:28:36 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 04:36:04 GMT</lastBuildDate>
+    <item>
+      <title>gst-rates: fix 8 wrong 2017-citation mismatches (ambulances etc.); period-correct wording for the RATE HISTORY jump</title>
+      <pubDate>Mon, 28 Sep 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-09-28.1</guid>
+      <description>2026-09-28 · package 2026-09-28.1</description>
+    </item>
     <item>
       <title>dry run</title>
       <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>

@@ -69,10 +69,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-09-26.1.json"
     },
     "gst-rates": {
-      "version": "2026-09-27.2",
-      "sha256": "8b884af0e230966ed0219dd4b2175cc5893abaf05588a13fff317c01bc66b997",
-      "bytes": 892191,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-27.2.json"
+      "version": "2026-09-28.1",
+      "sha256": "d19077196f1ba0f5796c7cb0db18fe84f9c082be8b2bdeefcf334bb491c53e04",
+      "bytes": 907047,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-28.1.json"
     },
     "hsn-master": {
       "version": "2026-09-26.1",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-28.1",
+      "date": "2026-09-28",
+      "note": "gst-rates: fix 8 wrong 2017-citation mismatches (ambulances etc.); period-correct wording for the RATE HISTORY jump"
+    },
     {
       "version": "2026-09-27.3",
       "date": "2026-09-27",
