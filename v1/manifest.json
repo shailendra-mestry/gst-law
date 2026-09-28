@@ -69,10 +69,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-09-26.1.json"
     },
     "gst-rates": {
-      "version": "2026-09-28.1",
-      "sha256": "d19077196f1ba0f5796c7cb0db18fe84f9c082be8b2bdeefcf334bb491c53e04",
-      "bytes": 907047,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-28.1.json"
+      "version": "2026-09-28.2",
+      "sha256": "d944cbf05d03b55fc2d3e30a206ca40e69d494b998f948029c98bf5d50c9c21b",
+      "bytes": 906234,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-28.2.json"
     },
     "hsn-master": {
       "version": "2026-09-26.1",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-09-28.2",
+      "date": "2026-09-28",
+      "note": "gst-rates: don't claim a single GST 2.0 rate change for a multi-item entry (HSN 8703 compound vehicle entries)"
+    },
     {
       "version": "2026-09-28.1",
       "date": "2026-09-28",
