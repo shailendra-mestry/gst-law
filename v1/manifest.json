@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-28",
+  "generatedAt": "2026-10-02",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-26.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-09-21.1",
-      "sha256": "58aca4c685a3ed1d0f865ea83017819b766e497e4c3315f75feae1742886d27f",
-      "bytes": 1174873,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-09-21.1.json"
+      "version": "2026-10-02.1",
+      "sha256": "e2c244536c8d15a7c26a3d08e87a40e610a3a1fbb3c99ad283ecc784e53269bb",
+      "bytes": 1175554,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-10-02.1.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -69,10 +69,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-09-26.1.json"
     },
     "gst-rates": {
-      "version": "2026-09-28.2",
-      "sha256": "d944cbf05d03b55fc2d3e30a206ca40e69d494b998f948029c98bf5d50c9c21b",
-      "bytes": 906234,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-09-28.2.json"
+      "version": "2026-10-02.1",
+      "sha256": "db2a06f84d05ce4a69e6e7a4eab77e4412ba678b6a7e9656d4c36c909486883c",
+      "bytes": 906258,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-10-02.1.json"
     },
     "hsn-master": {
       "version": "2026-09-26.1",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-10-02.1",
+      "date": "2026-10-02",
+      "note": "GSTN advisory: Sept 2026 GST revenue collections"
+    },
     {
       "version": "2026-09-28.2",
       "date": "2026-09-28",
