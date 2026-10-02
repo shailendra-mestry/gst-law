@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-26.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-10-02.1",
-      "sha256": "e2c244536c8d15a7c26a3d08e87a40e610a3a1fbb3c99ad283ecc784e53269bb",
-      "bytes": 1175554,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-10-02.1.json"
+      "version": "2026-10-02.2",
+      "sha256": "a4d11720eb0c0aa49e2261df87c3a6d4cfe4344c8c7023c758930335406da162",
+      "bytes": 1177386,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-10-02.2.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -112,6 +112,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-10-02.2",
+      "date": "2026-10-02",
+      "note": "GSTN advisory: Multistate Registration facility (and corrected Sept-2026 revenue advisory text)"
+    },
     {
       "version": "2026-10-02.1",
       "date": "2026-10-02",
