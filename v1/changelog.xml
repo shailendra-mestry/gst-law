@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Fri, 02 Oct 2026 05:16:38 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 05:22:51 GMT</lastBuildDate>
+    <item>
+      <title>Multistate Registration: s.25 FAQ and rule 8 note</title>
+      <pubDate>Fri, 02 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-02.2</guid>
+      <description>2026-10-02 · package 2026-10-02.2</description>
+    </item>
     <item>
       <title>GSTN advisory: Multistate Registration facility (and corrected Sept-2026 revenue advisory text)</title>
       <pubDate>Fri, 02 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Fri, 04 Sep 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-09-04.1</guid>
       <description>2026-09-04 · package 2026-09-04.1</description>
-    </item>
-    <item>
-      <title>Initial data package — corpus as of 2026-09-03 (incl. GSTN advisory #670)</title>
-      <pubDate>Thu, 03 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-03.1</guid>
-      <description>2026-09-03 · package 2026-09-03.1</description>
     </item>
 </channel></rss>

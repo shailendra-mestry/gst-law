@@ -9,10 +9,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-09-27.1",
-      "sha256": "b9f656f4e8dbbc20fef83f28030e34459aaaf63ccee24202a181e107fc577a21",
-      "bytes": 883971,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-09-27.1.json"
+      "version": "2026-10-02.1",
+      "sha256": "f3ce97c4fcbba9144c7929041595b93e77fca952054f501f7ba0e7c4ad656719",
+      "bytes": 885124,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-02.1.json"
     },
     "caselaw": {
       "version": "2026-09-27.1",
@@ -115,6 +115,11 @@
     {
       "version": "2026-10-02.2",
       "date": "2026-10-02",
+      "note": "Multistate Registration: s.25 FAQ and rule 8 note"
+    },
+    {
+      "version": "2026-10-02.2",
+      "date": "2026-10-02",
       "note": "GSTN advisory: Multistate Registration facility (and corrected Sept-2026 revenue advisory text)"
     },
     {
@@ -206,11 +211,6 @@
       "version": "2026-09-04.1",
       "date": "2026-09-04",
       "note": "Add SC ruling: State of Jharkhand v. BLA Infrastructure \u2014 pre-deposit refund after a won appeal is governed by s.107(6) r/w s.115, not s.54"
-    },
-    {
-      "version": "2026-09-03.1",
-      "date": "2026-09-03",
-      "note": "Initial data package \u2014 corpus as of 2026-09-03 (incl. GSTN advisory #670)"
     }
   ]
 }
