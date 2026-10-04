@@ -9,10 +9,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-04.2",
-      "sha256": "8530419f64cc1aaeda9fe51b7d169b77506d7f06b6ffeaf8baa54fff937c5893",
-      "bytes": 909581,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-04.2.json"
+      "version": "2026-10-04.3",
+      "sha256": "819fe2d61b3194c28c5b20f4b719b0ca6ac234912f43f9a2bac2b86b13a2be5f",
+      "bytes": 912937,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-04.3.json"
     },
     "caselaw": {
       "version": "2026-09-27.1",
@@ -113,6 +113,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-04.3",
+      "date": "2026-10-04",
+      "note": "Appeals/GSTAT (ch.19) + Demands & Recovery (ch.16) ICAI audit fixes"
+    },
+    {
       "version": "2026-10-04.2",
       "date": "2026-10-04",
       "note": "Refunds chapter: 20 ICAI-sourced Critical/High additions to ss.54-58"
@@ -206,11 +211,6 @@
       "version": "2026-09-07.1",
       "date": "2026-09-07",
       "note": "GSTN advisory 671 (7 Sep 2026) \u2014 appeal in APL-01 now enabled for NIL / Zero demand orders"
-    },
-    {
-      "version": "2026-09-06.1",
-      "date": "2026-09-06",
-      "note": "Add Amit Cotton Industries v. Principal Commissioner (Guj HC 2019) to Rule 96; Rule 96(10) omission note"
     }
   ]
 }
