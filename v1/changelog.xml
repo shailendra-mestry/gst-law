@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Sun, 04 Oct 2026 05:23:59 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 06:44:08 GMT</lastBuildDate>
+    <item>
+      <title>Refunds chapter: 20 ICAI-sourced Critical/High additions to ss.54-58</title>
+      <pubDate>Sun, 04 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-04.2</guid>
+      <description>2026-10-04 · package 2026-10-04.2</description>
+    </item>
     <item>
       <title>ITC chapter enrichment: 25 ICAI-sourced additions to ss.16-21 (circulars, Rule 41A, case law)</title>
       <pubDate>Sun, 04 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Sun, 06 Sep 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-09-06.1</guid>
       <description>2026-09-06 · package 2026-09-06.1</description>
-    </item>
-    <item>
-      <title>Add the Case law browser dataset; enrichment case notes gain stable ids</title>
-      <pubDate>Fri, 04 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-04.2</guid>
-      <description>2026-09-04 · package 2026-09-04.2</description>
     </item>
 </channel></rss>
