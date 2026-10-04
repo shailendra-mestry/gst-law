@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-02",
+  "generatedAt": "2026-10-04",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -9,10 +9,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-02.1",
-      "sha256": "f3ce97c4fcbba9144c7929041595b93e77fca952054f501f7ba0e7c4ad656719",
-      "bytes": 885124,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-02.1.json"
+      "version": "2026-10-04.1",
+      "sha256": "9d701e8081566a2323b64fba625c2df21c71311439dbe090e95664980e043ca1",
+      "bytes": 900193,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-04.1.json"
     },
     "caselaw": {
       "version": "2026-09-27.1",
@@ -113,6 +113,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-04.1",
+      "date": "2026-10-04",
+      "note": "ITC chapter enrichment: 25 ICAI-sourced additions to ss.16-21 (circulars, Rule 41A, case law)"
+    },
+    {
       "version": "2026-10-02.2",
       "date": "2026-10-02",
       "note": "Multistate Registration: s.25 FAQ and rule 8 note"
@@ -206,11 +211,6 @@
       "version": "2026-09-04.2",
       "date": "2026-09-04",
       "note": "Add the Case law browser dataset; enrichment case notes gain stable ids"
-    },
-    {
-      "version": "2026-09-04.1",
-      "date": "2026-09-04",
-      "note": "Add SC ruling: State of Jharkhand v. BLA Infrastructure \u2014 pre-deposit refund after a won appeal is governed by s.107(6) r/w s.115, not s.54"
     }
   ]
 }

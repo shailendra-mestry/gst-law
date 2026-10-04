@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Fri, 02 Oct 2026 05:22:51 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 05:23:59 GMT</lastBuildDate>
+    <item>
+      <title>ITC chapter enrichment: 25 ICAI-sourced additions to ss.16-21 (circulars, Rule 41A, case law)</title>
+      <pubDate>Sun, 04 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-04.1</guid>
+      <description>2026-10-04 · package 2026-10-04.1</description>
+    </item>
     <item>
       <title>Multistate Registration: s.25 FAQ and rule 8 note</title>
       <pubDate>Fri, 02 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Fri, 04 Sep 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-09-04.2</guid>
       <description>2026-09-04 · package 2026-09-04.2</description>
-    </item>
-    <item>
-      <title>Add SC ruling: State of Jharkhand v. BLA Infrastructure — pre-deposit refund after a won appeal is governed by s.107(6) r/w s.115, not s.54</title>
-      <pubDate>Fri, 04 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-04.1</guid>
-      <description>2026-09-04 · package 2026-09-04.1</description>
     </item>
 </channel></rss>
