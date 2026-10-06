@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Tue, 06 Oct 2026 08:01:22 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 13:14:22 GMT</lastBuildDate>
+    <item>
+      <title>Time/Value of Supply ICAI audit: Rule 28 personal-guarantee fix, Rule 32(5)/(7), Rule 33, s.15 NCB</title>
+      <pubDate>Tue, 06 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-06.2</guid>
+      <description>2026-10-06 · package 2026-10-06.2</description>
+    </item>
     <item>
       <title>Registration chapter: SEZ separate-registration proviso, warehouse-in-another-State clarification, Vandana Distributers (s.169 service) case</title>
       <pubDate>Tue, 06 Oct 2026 06:30:00 GMT</pubDate>
@@ -114,12 +120,6 @@
     </item>
     <item>
       <title>Case-law verification pass (22 case notes now carry a verified date) and corrected search text for a few statute passages</title>
-      <pubDate>Mon, 21 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-21.1</guid>
-      <description>2026-09-21 · package 2026-09-21.1</description>
-    </item>
-    <item>
-      <title>GSTN advisory 672 (19 Sep 2026) — emSigner v3.3 for digital-signature tokens issued from 21 Sep 2026</title>
       <pubDate>Mon, 21 Sep 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-09-21.1</guid>
       <description>2026-09-21 · package 2026-09-21.1</description>

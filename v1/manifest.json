@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-06.1",
-      "sha256": "64f625b6212118f1fb6f5958fd62e05206614a0f89ed99bd587b4cbb4c3b4009",
-      "bytes": 916161,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-06.1.json"
+      "version": "2026-10-06.2",
+      "sha256": "4015e2a482fbad8875d2f75f26991bbc680434d6098750900fab9b34c289ebd4",
+      "bytes": 930674,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-06.2.json"
     },
     "caselaw": {
-      "version": "2026-10-06.1",
-      "sha256": "bdf21b86a7c351d90c02d49f48c74b43667dde6ec8916c8acf34d63af75ff00b",
-      "bytes": 589491,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-06.1.json"
+      "version": "2026-10-06.2",
+      "sha256": "7c18f9770084b8314fd731c3477bba0505acaa29e15f1e5552a23b74956d5f8a",
+      "bytes": 594625,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-06.2.json"
     },
     "gst-notifications": {
       "version": "2026-09-27.3",
@@ -113,6 +113,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-06.2",
+      "date": "2026-10-06",
+      "note": "Time/Value of Supply ICAI audit: Rule 28 personal-guarantee fix, Rule 32(5)/(7), Rule 33, s.15 NCB"
+    },
+    {
       "version": "2026-10-06.1",
       "date": "2026-10-06",
       "note": "Registration chapter: SEZ separate-registration proviso, warehouse-in-another-State clarification, Vandana Distributers (s.169 service) case"
@@ -206,11 +211,6 @@
       "version": "2026-09-21.1",
       "date": "2026-09-21",
       "note": "Case-law verification pass (22 case notes now carry a verified date) and corrected search text for a few statute passages"
-    },
-    {
-      "version": "2026-09-21.1",
-      "date": "2026-09-21",
-      "note": "GSTN advisory 672 (19 Sep 2026) \u2014 emSigner v3.3 for digital-signature tokens issued from 21 Sep 2026"
     }
   ]
 }
