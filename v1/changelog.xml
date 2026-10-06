@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Sun, 04 Oct 2026 08:13:33 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 08:01:22 GMT</lastBuildDate>
+    <item>
+      <title>Registration chapter: SEZ separate-registration proviso, warehouse-in-another-State clarification, Vandana Distributers (s.169 service) case</title>
+      <pubDate>Tue, 06 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-06.1</guid>
+      <description>2026-10-06 · package 2026-10-06.1</description>
+    </item>
     <item>
       <title>Appeals/GSTAT (ch.19) + Demands &amp; Recovery (ch.16) ICAI audit fixes</title>
       <pubDate>Sun, 04 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Mon, 21 Sep 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-09-21.1</guid>
       <description>2026-09-21 · package 2026-09-21.1</description>
-    </item>
-    <item>
-      <title>GSTN advisory 671 (7 Sep 2026) — appeal in APL-01 now enabled for NIL / Zero demand orders</title>
-      <pubDate>Mon, 07 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-07.1</guid>
-      <description>2026-09-07 · package 2026-09-07.1</description>
     </item>
 </channel></rss>

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-04",
+  "generatedAt": "2026-10-06",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-04.3",
-      "sha256": "819fe2d61b3194c28c5b20f4b719b0ca6ac234912f43f9a2bac2b86b13a2be5f",
-      "bytes": 912937,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-04.3.json"
+      "version": "2026-10-06.1",
+      "sha256": "64f625b6212118f1fb6f5958fd62e05206614a0f89ed99bd587b4cbb4c3b4009",
+      "bytes": 916161,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-06.1.json"
     },
     "caselaw": {
-      "version": "2026-09-27.1",
-      "sha256": "80ac5530e880152f23c454b20865dac20f936f9b463e7c686085ba32736aecd3",
-      "bytes": 584917,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-09-27.1.json"
+      "version": "2026-10-06.1",
+      "sha256": "bdf21b86a7c351d90c02d49f48c74b43667dde6ec8916c8acf34d63af75ff00b",
+      "bytes": 589491,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-06.1.json"
     },
     "gst-notifications": {
       "version": "2026-09-27.3",
@@ -113,6 +113,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-06.1",
+      "date": "2026-10-06",
+      "note": "Registration chapter: SEZ separate-registration proviso, warehouse-in-another-State clarification, Vandana Distributers (s.169 service) case"
+    },
+    {
       "version": "2026-10-04.3",
       "date": "2026-10-04",
       "note": "Appeals/GSTAT (ch.19) + Demands & Recovery (ch.16) ICAI audit fixes"
@@ -206,11 +211,6 @@
       "version": "2026-09-21.1",
       "date": "2026-09-21",
       "note": "GSTN advisory 672 (19 Sep 2026) \u2014 emSigner v3.3 for digital-signature tokens issued from 21 Sep 2026"
-    },
-    {
-      "version": "2026-09-07.1",
-      "date": "2026-09-07",
-      "note": "GSTN advisory 671 (7 Sep 2026) \u2014 appeal in APL-01 now enabled for NIL / Zero demand orders"
     }
   ]
 }
