@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-08.1",
-      "sha256": "b4ff9075abcee85774276284b7ffa0cff854bdb93c56f04e7521b9ee63860970",
-      "bytes": 941248,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-08.1.json"
+      "version": "2026-10-11.1",
+      "sha256": "c421b24b344b7b3f026dae70a04573feb2f6247fd3430ee9b8ddaf96b7ea8252",
+      "bytes": 955162,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-11.1.json"
     },
     "caselaw": {
-      "version": "2026-10-08.1",
-      "sha256": "3b62a82c972def04997091881e9a02c47eff7747b1edb815d433c5c25cdb4722",
-      "bytes": 596024,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-08.1.json"
+      "version": "2026-10-11.1",
+      "sha256": "76d3c1d53c0d0fa8a8cee9cefb23ff70df9ac479dbaa3ebe024d7a1b60c8fd93",
+      "bytes": 603029,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-11.1.json"
     },
     "gst-notifications": {
       "version": "2026-09-27.3",
@@ -63,10 +63,22 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-faqs.2026-09-03.1.json"
     },
     "council-faqs": {
+      "version": "2026-10-11.2",
+      "sha256": "14631951cc0bb47257b298b805563e874f7a022d64d5aa4eaebcdf620735cef5",
+      "bytes": 224916,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/council-faqs.2026-10-11.2.json"
+    },
+    "press-releases": {
       "version": "2026-10-11.1",
-      "sha256": "45a709aaeefa87caffea259cef5bfaf69d70fcadfe3cfe8d87e7976df1941f4f",
-      "bytes": 149248,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/council-faqs.2026-10-11.1.json"
+      "sha256": "52f9a809977a874f1e97531983af5fe1660966bbd712f4a393c994ad024f7c6f",
+      "bytes": 1051549,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/press-releases.2026-10-11.1.json"
+    },
+    "gst-revenue": {
+      "version": "2026-10-11.1",
+      "sha256": "6ee439dcdc54fc547500c79ec930b1de1e3ec312850b170002004d18b1b8acea",
+      "bytes": 260408,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-revenue.2026-10-11.1.json"
     },
     "gst-forms": {
       "version": "2026-09-26.1",
@@ -118,6 +130,16 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-10-11.2",
+      "date": "2026-10-11",
+      "note": "Add GST press-release archive (197) + revenue time series (99 months); publish Ch.17-18 ICAI audit additions"
+    },
+    {
+      "version": "2026-10-11.2",
+      "date": "2026-10-11",
+      "note": "GST press-release archive (197) + revenue time series (99 months, PIB+GSTN); Ch.17-18 ICAI audit additions (s.82 IBC carve-out, advance-ruling maintainability, s.98 pending-proceedings)"
+    },
     {
       "version": "2026-10-11.1",
       "date": "2026-10-11",
@@ -207,16 +229,6 @@
       "version": "2026-09-27.1",
       "date": "2026-09-27",
       "note": "Rate finder: the 2017-2025 rate histories read from every amendment (tiles, paints, plywood, lifts cut to 18% in 2017-18; EV chargers, fertilisers, cartons), Nil since 2017 for goods exempt from the start, TMT bars (7214) found, and the pure-labour exemption under SAC 9954"
-    },
-    {
-      "version": "2026-09-26.3",
-      "date": "2026-09-26",
-      "note": "Real estate sector hub: 4 new case notes (JDA, TDR, RWA), construction rate labels corrected"
-    },
-    {
-      "version": "2026-09-26.2",
-      "date": "2026-09-26",
-      "note": "Circulars, notifications, instructions and orders: paragraphs no longer run together (lettered/roman sub-paragraphs, long numbered lists, sub-section references)"
     }
   ]
 }
