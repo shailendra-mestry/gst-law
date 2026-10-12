@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Sun, 11 Oct 2026 16:05:40 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 04:59:08 GMT</lastBuildDate>
+    <item>
+      <title>Updated: enrichment, caselaw</title>
+      <pubDate>Mon, 12 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-12.1</guid>
+      <description>2026-10-12 · package 2026-10-12.1</description>
+    </item>
     <item>
       <title>Add GST press-release archive (197) + revenue time series (99 months); publish Ch.17-18 ICAI audit additions</title>
       <pubDate>Sun, 11 Oct 2026 06:30:00 GMT</pubDate>
@@ -114,12 +120,6 @@
     </item>
     <item>
       <title>Notifications: the Scheme of Classification's own &quot;Section 5&quot;-&quot;Section 9&quot; (annexure to 11/2017-CT(R) and the 2017 rate / exemption schedules) no longer link to CGST sections 5-9</title>
-      <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-27.1</guid>
-      <description>2026-09-27 · package 2026-09-27.1</description>
-    </item>
-    <item>
-      <title>Rate finder: the 2017-2025 rate histories read from every amendment (tiles, paints, plywood, lifts cut to 18% in 2017-18; EV chargers, fertilisers, cartons), Nil since 2017 for goods exempt from the start, TMT bars (7214) found, and the pure-labour exemption under SAC 9954</title>
       <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-09-27.1</guid>
       <description>2026-09-27 · package 2026-09-27.1</description>

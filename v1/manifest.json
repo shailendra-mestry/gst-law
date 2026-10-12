@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-11",
+  "generatedAt": "2026-10-12",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-11.1",
-      "sha256": "c421b24b344b7b3f026dae70a04573feb2f6247fd3430ee9b8ddaf96b7ea8252",
-      "bytes": 955162,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-11.1.json"
+      "version": "2026-10-12.1",
+      "sha256": "a78d838af4d9f48b6008d788c2653d2c7ba1665169a66e1257994acef724a029",
+      "bytes": 974480,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-12.1.json"
     },
     "caselaw": {
-      "version": "2026-10-11.1",
-      "sha256": "76d3c1d53c0d0fa8a8cee9cefb23ff70df9ac479dbaa3ebe024d7a1b60c8fd93",
-      "bytes": 603029,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-11.1.json"
+      "version": "2026-10-12.1",
+      "sha256": "1cd68979257b82c5cc593ad428d51ba259fb4277f4185ac2d9e080d107eef158",
+      "bytes": 623167,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-12.1.json"
     },
     "gst-notifications": {
       "version": "2026-09-27.3",
@@ -131,6 +131,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-12.1",
+      "date": "2026-10-12",
+      "note": "Updated: enrichment, caselaw"
+    },
+    {
       "version": "2026-10-11.2",
       "date": "2026-10-11",
       "note": "Add GST press-release archive (197) + revenue time series (99 months); publish Ch.17-18 ICAI audit additions"
@@ -224,11 +229,6 @@
       "version": "2026-09-27.1",
       "date": "2026-09-27",
       "note": "Notifications: the Scheme of Classification's own \"Section 5\"-\"Section 9\" (annexure to 11/2017-CT(R) and the 2017 rate / exemption schedules) no longer link to CGST sections 5-9"
-    },
-    {
-      "version": "2026-09-27.1",
-      "date": "2026-09-27",
-      "note": "Rate finder: the 2017-2025 rate histories read from every amendment (tiles, paints, plywood, lifts cut to 18% in 2017-18; EV chargers, fertilisers, cartons), Nil since 2017 for goods exempt from the start, TMT bars (7214) found, and the pure-labour exemption under SAC 9954"
     }
   ]
 }
