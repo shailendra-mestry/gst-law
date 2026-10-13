@@ -87,10 +87,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-09-26.1.json"
     },
     "gst-rates": {
-      "version": "2026-10-02.1",
-      "sha256": "db2a06f84d05ce4a69e6e7a4eab77e4412ba678b6a7e9656d4c36c909486883c",
-      "bytes": 906258,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-10-02.1.json"
+      "version": "2026-10-13.1",
+      "sha256": "161879b1d1d28defa882e784e5fc9a9e7556b4b646a705f3b8dfc12abb599036",
+      "bytes": 907098,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-rates.2026-10-13.1.json"
     },
     "hsn-master": {
       "version": "2026-09-26.1",
@@ -130,6 +130,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-10-13.1",
+      "date": "2026-10-13",
+      "note": "Updated: gst-rates"
+    },
     {
       "version": "2026-10-13.1",
       "date": "2026-10-13",
@@ -224,11 +229,6 @@
       "version": "2026-09-27.3",
       "date": "2026-09-27",
       "note": "Section and rule references in Integrated / Union Territory Tax notifications that name no Act now open the right one (UTGST s.22, IGST ss.5, 12 and 13, the IGST Rules' own rules 2-5); other statutes' sections, Gazette \"Part-I, Section 1\" lines and sub-section numbers written without brackets no longer link into CGST"
-    },
-    {
-      "version": "2026-09-27.2",
-      "date": "2026-09-27",
-      "note": "Section references in notifications, circulars and orders now open the right Act: \"the said Act\" follows each document's own definition (IGST / UTGST sections no longer open CGST ones; Finance Act commencement sections no longer link into CGST)"
     }
   ]
 }

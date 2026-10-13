@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Tue, 13 Oct 2026 03:18:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 03:57:07 GMT</lastBuildDate>
+    <item>
+      <title>Updated: gst-rates</title>
+      <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-13.1</guid>
+      <description>2026-10-13 · package 2026-10-13.1</description>
+    </item>
     <item>
       <title>Updated: enrichment, caselaw</title>
       <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-09-27.3</guid>
       <description>2026-09-27 · package 2026-09-27.3</description>
-    </item>
-    <item>
-      <title>Section references in notifications, circulars and orders now open the right Act: &quot;the said Act&quot; follows each document's own definition (IGST / UTGST sections no longer open CGST ones; Finance Act commencement sections no longer link into CGST)</title>
-      <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-27.2</guid>
-      <description>2026-09-27 · package 2026-09-27.2</description>
     </item>
 </channel></rss>
