@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Mon, 12 Oct 2026 04:59:08 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 03:18:05 GMT</lastBuildDate>
+    <item>
+      <title>Updated: enrichment, caselaw</title>
+      <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-13.1</guid>
+      <description>2026-10-13 · package 2026-10-13.1</description>
+    </item>
     <item>
       <title>Updated: enrichment, caselaw</title>
       <pubDate>Mon, 12 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-09-27.2</guid>
       <description>2026-09-27 · package 2026-09-27.2</description>
-    </item>
-    <item>
-      <title>Notifications: the Scheme of Classification's own &quot;Section 5&quot;-&quot;Section 9&quot; (annexure to 11/2017-CT(R) and the 2017 rate / exemption schedules) no longer link to CGST sections 5-9</title>
-      <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-27.1</guid>
-      <description>2026-09-27 · package 2026-09-27.1</description>
     </item>
 </channel></rss>

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-12",
+  "generatedAt": "2026-10-13",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-12.1",
-      "sha256": "a78d838af4d9f48b6008d788c2653d2c7ba1665169a66e1257994acef724a029",
-      "bytes": 974480,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-12.1.json"
+      "version": "2026-10-13.1",
+      "sha256": "997aa3b904bc765eaa3940d331ff0b03084491e331d4a9035492aafec66ccf72",
+      "bytes": 991359,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-13.1.json"
     },
     "caselaw": {
-      "version": "2026-10-12.1",
-      "sha256": "1cd68979257b82c5cc593ad428d51ba259fb4277f4185ac2d9e080d107eef158",
-      "bytes": 623167,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-12.1.json"
+      "version": "2026-10-13.1",
+      "sha256": "d9b9f5b5a0d0bad0528e00bde087db77f0292f99d78541eccc10e4e50c260169",
+      "bytes": 628326,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-13.1.json"
     },
     "gst-notifications": {
       "version": "2026-09-27.3",
@@ -131,6 +131,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-13.1",
+      "date": "2026-10-13",
+      "note": "Updated: enrichment, caselaw"
+    },
+    {
       "version": "2026-10-12.1",
       "date": "2026-10-12",
       "note": "Updated: enrichment, caselaw"
@@ -224,11 +229,6 @@
       "version": "2026-09-27.2",
       "date": "2026-09-27",
       "note": "Section references in notifications, circulars and orders now open the right Act: \"the said Act\" follows each document's own definition (IGST / UTGST sections no longer open CGST ones; Finance Act commencement sections no longer link into CGST)"
-    },
-    {
-      "version": "2026-09-27.1",
-      "date": "2026-09-27",
-      "note": "Notifications: the Scheme of Classification's own \"Section 5\"-\"Section 9\" (annexure to 11/2017-CT(R) and the 2017 rate / exemption schedules) no longer link to CGST sections 5-9"
     }
   ]
 }
