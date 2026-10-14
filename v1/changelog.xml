@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Wed, 14 Oct 2026 06:21:50 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 17:19:01 GMT</lastBuildDate>
+    <item>
+      <title>Updated: gst-rates</title>
+      <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-14.3</guid>
+      <description>2026-10-14 · package 2026-10-14.3</description>
+    </item>
     <item>
       <title>Updated: gstn-advisories</title>
       <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Fri, 02 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-02.1</guid>
       <description>2026-10-02 · package 2026-10-02.1</description>
-    </item>
-    <item>
-      <title>gst-rates: don't claim a single GST 2.0 rate change for a multi-item entry (HSN 8703 compound vehicle entries)</title>
-      <pubDate>Mon, 28 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-28.2</guid>
-      <description>2026-09-28 · package 2026-09-28.2</description>
     </item>
 </channel></rss>
