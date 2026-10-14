@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-26.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-10-02.2",
-      "sha256": "a4d11720eb0c0aa49e2261df87c3a6d4cfe4344c8c7023c758930335406da162",
-      "bytes": 1177386,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-10-02.2.json"
+      "version": "2026-10-14.1",
+      "sha256": "7513ef34d96fbcec4acfdbc3ad17025d7df9548d34217ea14f938e8835155718",
+      "bytes": 1181034,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-10-14.1.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -133,7 +133,12 @@
     {
       "version": "2026-10-14.2",
       "date": "2026-10-14",
-      "note": "Updated: gst-rates"
+      "note": "Updated: gstn-advisories"
+    },
+    {
+      "version": "2026-10-14.2",
+      "date": "2026-10-14",
+      "note": "10/2025-CT(R)'s Annexure-II (\"List of indigenous handmade musical instruments\", cited by Sch S.No. 161) no longer leaks its own 1-134 item list as 12 fake top-level, HSN-less goods entries (Elathalam, Geger, etc.) \u2014 its last, short page fell through a text-length heuristic meant to keep annexure content out of the rate table"
     },
     {
       "version": "2026-10-14.1",
@@ -224,11 +229,6 @@
       "version": "2026-09-28.1",
       "date": "2026-09-28",
       "note": "gst-rates: fix 8 wrong 2017-citation mismatches (ambulances etc.); period-correct wording for the RATE HISTORY jump"
-    },
-    {
-      "version": "2026-09-27.3",
-      "date": "2026-09-27",
-      "note": "dry run"
     }
   ]
 }

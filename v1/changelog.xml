@@ -3,9 +3,15 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Wed, 14 Oct 2026 05:07:34 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 06:03:06 GMT</lastBuildDate>
     <item>
-      <title>Updated: gst-rates</title>
+      <title>Updated: gstn-advisories</title>
+      <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-14.2</guid>
+      <description>2026-10-14 · package 2026-10-14.2</description>
+    </item>
+    <item>
+      <title>10/2025-CT(R)'s Annexure-II (&quot;List of indigenous handmade musical instruments&quot;, cited by Sch S.No. 161) no longer leaks its own 1-134 item list as 12 fake top-level, HSN-less goods entries (Elathalam, Geger, etc.) — its last, short page fell through a text-length heuristic meant to keep annexure content out of the rate table</title>
       <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-14.2</guid>
       <description>2026-10-14 · package 2026-10-14.2</description>
@@ -117,11 +123,5 @@
       <pubDate>Mon, 28 Sep 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-09-28.1</guid>
       <description>2026-09-28 · package 2026-09-28.1</description>
-    </item>
-    <item>
-      <title>dry run</title>
-      <pubDate>Sun, 27 Sep 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-09-27.3</guid>
-      <description>2026-09-27 · package 2026-09-27.3</description>
     </item>
 </channel></rss>
