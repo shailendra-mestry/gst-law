@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-26.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-10-14.1",
-      "sha256": "7513ef34d96fbcec4acfdbc3ad17025d7df9548d34217ea14f938e8835155718",
-      "bytes": 1181034,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-10-14.1.json"
+      "version": "2026-10-14.2",
+      "sha256": "0c6bc1007ffddfdce03a8f293c6fc8d6288a5b5bcdc78508ece4757de7f23a41",
+      "bytes": 1186847,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-10-14.2.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -130,6 +130,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-10-14.2",
+      "date": "2026-10-14",
+      "note": "Updated: gstn-advisories"
+    },
     {
       "version": "2026-10-14.2",
       "date": "2026-10-14",
@@ -224,11 +229,6 @@
       "version": "2026-09-28.2",
       "date": "2026-09-28",
       "note": "gst-rates: don't claim a single GST 2.0 rate change for a multi-item entry (HSN 8703 compound vehicle entries)"
-    },
-    {
-      "version": "2026-09-28.1",
-      "date": "2026-09-28",
-      "note": "gst-rates: fix 8 wrong 2017-citation mismatches (ambulances etc.); period-correct wording for the RATE HISTORY jump"
     }
   ]
 }
