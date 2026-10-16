@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-14",
+  "generatedAt": "2026-10-15",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-13.1",
-      "sha256": "997aa3b904bc765eaa3940d331ff0b03084491e331d4a9035492aafec66ccf72",
-      "bytes": 991359,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-13.1.json"
+      "version": "2026-10-15.1",
+      "sha256": "3370a79294d9375cd41b10179696d609e3d95a707fd30d532f4b345529dd875b",
+      "bytes": 993235,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-15.1.json"
     },
     "caselaw": {
-      "version": "2026-10-13.1",
-      "sha256": "d9b9f5b5a0d0bad0528e00bde087db77f0292f99d78541eccc10e4e50c260169",
-      "bytes": 628326,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-13.1.json"
+      "version": "2026-10-15.1",
+      "sha256": "7420e6606b766ae41209f3633f33d06661bd196fd1c2b24a4f11b2164710d87a",
+      "bytes": 630260,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-15.1.json"
     },
     "gst-notifications": {
       "version": "2026-09-27.3",
@@ -131,6 +131,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-15.1",
+      "date": "2026-10-15",
+      "note": "Updated: enrichment, caselaw"
+    },
+    {
       "version": "2026-10-14.3",
       "date": "2026-10-14",
       "note": "Updated: gst-rates"
@@ -224,11 +229,6 @@
       "version": "2026-10-02.2",
       "date": "2026-10-02",
       "note": "GSTN advisory: Multistate Registration facility (and corrected Sept-2026 revenue advisory text)"
-    },
-    {
-      "version": "2026-10-02.1",
-      "date": "2026-10-02",
-      "note": "GSTN advisory: Sept 2026 GST revenue collections"
     }
   ]
 }
