@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Fri, 16 Oct 2026 12:23:34 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 05:56:35 GMT</lastBuildDate>
+    <item>
+      <title>Fix: table rows that wrap across a PDF grid row were splitting mid-sentence — merged back across circulars/notifications/instructions</title>
+      <pubDate>Sun, 18 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-18.1</guid>
+      <description>2026-10-18 · package 2026-10-18.1</description>
+    </item>
     <item>
       <title>advisory 678 — Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under</title>
       <pubDate>Fri, 16 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Sun, 04 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-04.1</guid>
       <description>2026-10-04 · package 2026-10-04.1</description>
-    </item>
-    <item>
-      <title>Multistate Registration: s.25 FAQ and rule 8 note</title>
-      <pubDate>Fri, 02 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-02.2</guid>
-      <description>2026-10-02 · package 2026-10-02.2</description>
     </item>
 </channel></rss>
