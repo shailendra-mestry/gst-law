@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-15",
+  "generatedAt": "2026-10-16",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-26.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-10-14.2",
-      "sha256": "0c6bc1007ffddfdce03a8f293c6fc8d6288a5b5bcdc78508ece4757de7f23a41",
-      "bytes": 1186847,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-10-14.2.json"
+      "version": "2026-10-16.1",
+      "sha256": "f6f7bab6f0ae84bdba6f7b6db5fc0b285fb52df93674791ac74241df636526ee",
+      "bytes": 1193230,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-10-16.1.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -130,6 +130,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-10-16.1",
+      "date": "2026-10-16",
+      "note": "advisory 678 \u2014 Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under"
+    },
     {
       "version": "2026-10-15.1",
       "date": "2026-10-15",
@@ -224,11 +229,6 @@
       "version": "2026-10-02.2",
       "date": "2026-10-02",
       "note": "Multistate Registration: s.25 FAQ and rule 8 note"
-    },
-    {
-      "version": "2026-10-02.2",
-      "date": "2026-10-02",
-      "note": "GSTN advisory: Multistate Registration facility (and corrected Sept-2026 revenue advisory text)"
     }
   ]
 }
