@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-18",
+  "generatedAt": "2026-10-20",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-15.1",
-      "sha256": "3370a79294d9375cd41b10179696d609e3d95a707fd30d532f4b345529dd875b",
-      "bytes": 993235,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-15.1.json"
+      "version": "2026-10-20.1",
+      "sha256": "2c41acd927086514c8dc440714d8de77bb68a7464918cc37f2d6e9b895eee37b",
+      "bytes": 998104,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-20.1.json"
     },
     "caselaw": {
-      "version": "2026-10-15.1",
-      "sha256": "7420e6606b766ae41209f3633f33d06661bd196fd1c2b24a4f11b2164710d87a",
-      "bytes": 630260,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-15.1.json"
+      "version": "2026-10-20.1",
+      "sha256": "265afb0cdb527d4d8dd10c37091021a70f8dd462a51f4c59a69c4f6906b65cfc",
+      "bytes": 647867,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-20.1.json"
     },
     "gst-notifications": {
       "version": "2026-10-18.1",
@@ -131,6 +131,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-20.1",
+      "date": "2026-10-20",
+      "note": "New case law: Shaurya Alloys Pvt. Ltd. v. State of Punjab (P&H HC, 01.10.2026) \u2014 section 16(2)(c) ITC denial for supplier default, 14 guidelines"
+    },
+    {
       "version": "2026-10-18.1",
       "date": "2026-10-18",
       "note": "Fix: table rows that wrap across a PDF grid row were splitting mid-sentence \u2014 merged back across circulars/notifications/instructions"
@@ -224,11 +229,6 @@
       "version": "2026-10-04.2",
       "date": "2026-10-04",
       "note": "Refunds chapter: 20 ICAI-sourced Critical/High additions to ss.54-58"
-    },
-    {
-      "version": "2026-10-04.1",
-      "date": "2026-10-04",
-      "note": "ITC chapter enrichment: 25 ICAI-sourced additions to ss.16-21 (circulars, Rule 41A, case law)"
     }
   ]
 }

@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Sun, 18 Oct 2026 05:56:35 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 06:10:56 GMT</lastBuildDate>
+    <item>
+      <title>New case law: Shaurya Alloys Pvt. Ltd. v. State of Punjab (P&amp;H HC, 01.10.2026) — section 16(2)(c) ITC denial for supplier default, 14 guidelines</title>
+      <pubDate>Tue, 20 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-20.1</guid>
+      <description>2026-10-20 · package 2026-10-20.1</description>
+    </item>
     <item>
       <title>Fix: table rows that wrap across a PDF grid row were splitting mid-sentence — merged back across circulars/notifications/instructions</title>
       <pubDate>Sun, 18 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Sun, 04 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-04.2</guid>
       <description>2026-10-04 · package 2026-10-04.2</description>
-    </item>
-    <item>
-      <title>ITC chapter enrichment: 25 ICAI-sourced additions to ss.16-21 (circulars, Rule 41A, case law)</title>
-      <pubDate>Sun, 04 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-04.1</guid>
-      <description>2026-10-04 · package 2026-10-04.1</description>
     </item>
 </channel></rss>
