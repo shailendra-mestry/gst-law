@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Wed, 21 Oct 2026 13:26:31 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 13:39:37 GMT</lastBuildDate>
+    <item>
+      <title>hsn-recode-2022: 472 HS-2022 HSN recode entries, standalone lookup</title>
+      <pubDate>Wed, 21 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-21.1</guid>
+      <description>2026-10-21 · package 2026-10-21.1</description>
+    </item>
     <item>
       <title>472 HS-2022 HSN recodes (standalone lookup); table row-split column-shift fix (22 notifications, 3 circulars)</title>
       <pubDate>Wed, 21 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Tue, 06 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-06.1</guid>
       <description>2026-10-06 · package 2026-10-06.1</description>
-    </item>
-    <item>
-      <title>Appeals/GSTAT (ch.19) + Demands &amp; Recovery (ch.16) ICAI audit fixes</title>
-      <pubDate>Sun, 04 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-04.3</guid>
-      <description>2026-10-04 · package 2026-10-04.3</description>
     </item>
 </channel></rss>

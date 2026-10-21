@@ -98,6 +98,12 @@
       "bytes": 3329768,
       "url": "https://shailendra-mestry.github.io/gst-law/v1/hsn-master.2026-09-26.1.json"
     },
+    "hsn-recode-2022": {
+      "version": "2026-10-21.1",
+      "sha256": "f6716e97274779fef91baf518685fb9a1ab21fa4667f81a971f15f105efc7a78",
+      "bytes": 58393,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/hsn-recode-2022.2026-10-21.1.json"
+    },
     "search-index": {
       "version": "2026-09-26.1",
       "sha256": "34553fa5bdceb862a5cff21cf269086695387a7bb8bf024665279df27c9fac61",
@@ -130,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-10-21.1",
+      "date": "2026-10-21",
+      "note": "hsn-recode-2022: 472 HS-2022 HSN recode entries, standalone lookup"
+    },
     {
       "version": "2026-10-21.1",
       "date": "2026-10-21",
@@ -224,11 +235,6 @@
       "version": "2026-10-06.1",
       "date": "2026-10-06",
       "note": "Registration chapter: SEZ separate-registration proviso, warehouse-in-another-State clarification, Vandana Distributers (s.169 service) case"
-    },
-    {
-      "version": "2026-10-04.3",
-      "date": "2026-10-04",
-      "note": "Appeals/GSTAT (ch.19) + Demands & Recovery (ch.16) ICAI audit fixes"
     }
   ]
 }
