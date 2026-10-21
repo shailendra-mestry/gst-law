@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-20",
+  "generatedAt": "2026-10-21",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -21,16 +21,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-20.1.json"
     },
     "gst-notifications": {
-      "version": "2026-10-18.1",
-      "sha256": "6c7aac1b4eb8b910eaa6f7ce786b42693113ee3f38ebd3e7608b9bf906d5fee9",
-      "bytes": 8801294,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-10-18.1.json"
+      "version": "2026-10-21.1",
+      "sha256": "0d51d59d29364b84fae4f00a64277c89bca5931ef64ab6989147e1e309d785ac",
+      "bytes": 8799082,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-10-21.1.json"
     },
     "gst-circulars": {
-      "version": "2026-10-18.1",
-      "sha256": "4c8ad5a988371806bf7bd356800399934960a48a96b3314cb1153ac78d506547",
-      "bytes": 2556019,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-10-18.1.json"
+      "version": "2026-10-21.1",
+      "sha256": "7c7ead5131a17d34f78bb9c280d8d3f62b8079ee93a7d412580239b76273bd02",
+      "bytes": 2556078,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-10-21.1.json"
     },
     "gst-instructions": {
       "version": "2026-10-18.1",
@@ -131,6 +131,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-21.1",
+      "date": "2026-10-21",
+      "note": "472 HS-2022 HSN recodes (standalone lookup); table row-split column-shift fix (22 notifications, 3 circulars)"
+    },
+    {
       "version": "2026-10-20.1",
       "date": "2026-10-20",
       "note": "New case law: Shaurya Alloys Pvt. Ltd. v. State of Punjab (P&H HC, 01.10.2026) \u2014 section 16(2)(c) ITC denial for supplier default, 14 guidelines"
@@ -224,11 +229,6 @@
       "version": "2026-10-04.3",
       "date": "2026-10-04",
       "note": "Appeals/GSTAT (ch.19) + Demands & Recovery (ch.16) ICAI audit fixes"
-    },
-    {
-      "version": "2026-10-04.2",
-      "date": "2026-10-04",
-      "note": "Refunds chapter: 20 ICAI-sourced Critical/High additions to ss.54-58"
     }
   ]
 }
