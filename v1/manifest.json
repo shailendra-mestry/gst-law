@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-21",
+  "generatedAt": "2026-10-25",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-20.1",
-      "sha256": "2c41acd927086514c8dc440714d8de77bb68a7464918cc37f2d6e9b895eee37b",
-      "bytes": 998104,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-20.1.json"
+      "version": "2026-10-25.1",
+      "sha256": "2fde51a7df2b82d27453633e168df5eb31b4009479e87df0dd946d5010bc5806",
+      "bytes": 1016686,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-25.1.json"
     },
     "caselaw": {
-      "version": "2026-10-20.1",
-      "sha256": "265afb0cdb527d4d8dd10c37091021a70f8dd462a51f4c59a69c4f6906b65cfc",
-      "bytes": 647867,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-20.1.json"
+      "version": "2026-10-25.1",
+      "sha256": "31da1258d4b7de03579d0e923ca7fb01d4e567f706cfcd3117c17cc183afe5c2",
+      "bytes": 681918,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-25.1.json"
     },
     "gst-notifications": {
       "version": "2026-10-21.1",
@@ -137,9 +137,9 @@
   },
   "changelog": [
     {
-      "version": "2026-10-21.1",
-      "date": "2026-10-21",
-      "note": "hsn-recode-2022: 472 HS-2022 HSN recode entries, standalone lookup"
+      "version": "2026-10-25.1",
+      "date": "2026-10-25",
+      "note": "Devendra Singh v. Hema Industries + Star Raison Landmarks v. Chief Commissioner case law"
     },
     {
       "version": "2026-10-21.1",
