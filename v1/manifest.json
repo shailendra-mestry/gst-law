@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-25.1",
-      "sha256": "2fde51a7df2b82d27453633e168df5eb31b4009479e87df0dd946d5010bc5806",
-      "bytes": 1016686,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-25.1.json"
+      "version": "2026-10-25.2",
+      "sha256": "924327e9a4f50361a209acaf4b7f6ddbdf37af06c781cd822daaa6823cfe9c56",
+      "bytes": 1018409,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-25.2.json"
     },
     "caselaw": {
-      "version": "2026-10-25.1",
-      "sha256": "31da1258d4b7de03579d0e923ca7fb01d4e567f706cfcd3117c17cc183afe5c2",
-      "bytes": 681918,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-25.1.json"
+      "version": "2026-10-25.2",
+      "sha256": "d373039dda18217809c2c6b2cf3b7e6e6418c094232c6f3f76a8b4dc4f11db73",
+      "bytes": 684741,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-25.2.json"
     },
     "gst-notifications": {
       "version": "2026-10-21.1",
@@ -137,6 +137,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-25.2",
+      "date": "2026-10-25",
+      "note": "Tata Steel Ltd. v. Union of India (SLP admitted) case note"
+    },
+    {
       "version": "2026-10-25.1",
       "date": "2026-10-25",
       "note": "Devendra Singh v. Hema Industries + Star Raison Landmarks v. Chief Commissioner case law"
@@ -230,11 +235,6 @@
       "version": "2026-10-06.2",
       "date": "2026-10-06",
       "note": "Time/Value of Supply ICAI audit: Rule 28 personal-guarantee fix, Rule 32(5)/(7), Rule 33, s.15 NCB"
-    },
-    {
-      "version": "2026-10-06.1",
-      "date": "2026-10-06",
-      "note": "Registration chapter: SEZ separate-registration proviso, warehouse-in-another-State clarification, Vandana Distributers (s.169 service) case"
     }
   ]
 }
