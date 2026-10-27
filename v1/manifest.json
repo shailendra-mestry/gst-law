@@ -27,10 +27,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-10-21.1.json"
     },
     "gst-circulars": {
-      "version": "2026-10-27.2",
-      "sha256": "750b6bbf2de9a646bdb254c25cbacfadad05d8470e3d294696a96c70b0a369e4",
-      "bytes": 2773106,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-10-27.2.json"
+      "version": "2026-10-27.3",
+      "sha256": "4558e9ff36ea9e687242f61780ac81a9d88a4a0d92528d2e04d770c72cc1ca8e",
+      "bytes": 2773068,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-10-27.3.json"
     },
     "gst-instructions": {
       "version": "2026-10-18.1",
@@ -137,6 +137,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-27.3",
+      "date": "2026-10-27",
+      "note": "Circular table/link fixes + heading-depth fix (PR #18, #19)"
+    },
+    {
       "version": "2026-10-27.2",
       "date": "2026-10-27",
       "note": "Plain-English gists added to 8 circulars (257-264/2026-GST)"
@@ -230,11 +235,6 @@
       "version": "2026-10-11.2",
       "date": "2026-10-11",
       "note": "GST press-release archive (197) + revenue time series (99 months, PIB+GSTN); Ch.17-18 ICAI audit additions (s.82 IBC carve-out, advance-ruling maintainability, s.98 pending-proceedings)"
-    },
-    {
-      "version": "2026-10-11.1",
-      "date": "2026-10-11",
-      "note": "Updated: council-faqs"
     }
   ]
 }
