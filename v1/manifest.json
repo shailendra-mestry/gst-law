@@ -27,10 +27,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-10-21.1.json"
     },
     "gst-circulars": {
-      "version": "2026-10-27.1",
-      "sha256": "965ab6d46076a93646ccf99b621adac4b48ad15a6932e8da0bb8aa0dd584caf6",
-      "bytes": 2767043,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-10-27.1.json"
+      "version": "2026-10-27.2",
+      "sha256": "750b6bbf2de9a646bdb254c25cbacfadad05d8470e3d294696a96c70b0a369e4",
+      "bytes": 2773106,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-10-27.2.json"
     },
     "gst-instructions": {
       "version": "2026-10-18.1",
@@ -137,6 +137,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-27.2",
+      "date": "2026-10-27",
+      "note": "Plain-English gists added to 8 circulars (257-264/2026-GST)"
+    },
+    {
       "version": "2026-10-27.1",
       "date": "2026-10-27",
       "note": "8 circulars 257-264/2026-GST + annual return matrix fixes"
@@ -230,11 +235,6 @@
       "version": "2026-10-11.1",
       "date": "2026-10-11",
       "note": "Updated: council-faqs"
-    },
-    {
-      "version": "2026-10-08.1",
-      "date": "2026-10-08",
-      "note": "Updated: enrichment, caselaw"
     }
   ]
 }

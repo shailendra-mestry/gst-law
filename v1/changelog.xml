@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Tue, 27 Oct 2026 05:47:49 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 16:09:27 GMT</lastBuildDate>
+    <item>
+      <title>Plain-English gists added to 8 circulars (257-264/2026-GST)</title>
+      <pubDate>Tue, 27 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-27.2</guid>
+      <description>2026-10-27 · package 2026-10-27.2</description>
+    </item>
     <item>
       <title>8 circulars 257-264/2026-GST + annual return matrix fixes</title>
       <pubDate>Tue, 27 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Sun, 11 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-11.1</guid>
       <description>2026-10-11 · package 2026-10-11.1</description>
-    </item>
-    <item>
-      <title>Updated: enrichment, caselaw</title>
-      <pubDate>Thu, 08 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-08.1</guid>
-      <description>2026-10-08 · package 2026-10-08.1</description>
     </item>
 </channel></rss>
