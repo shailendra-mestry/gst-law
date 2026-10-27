@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-25",
+  "generatedAt": "2026-10-27",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -9,10 +9,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
     },
     "enrichment": {
-      "version": "2026-10-25.2",
-      "sha256": "924327e9a4f50361a209acaf4b7f6ddbdf37af06c781cd822daaa6823cfe9c56",
-      "bytes": 1018409,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-25.2.json"
+      "version": "2026-10-27.1",
+      "sha256": "d603674e005157d126ac4e24be8ab05094bed00e24754bcc4bca9849d1742fb4",
+      "bytes": 1018988,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-27.1.json"
     },
     "caselaw": {
       "version": "2026-10-25.2",
@@ -27,10 +27,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-10-21.1.json"
     },
     "gst-circulars": {
-      "version": "2026-10-21.1",
-      "sha256": "7c7ead5131a17d34f78bb9c280d8d3f62b8079ee93a7d412580239b76273bd02",
-      "bytes": 2556078,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-10-21.1.json"
+      "version": "2026-10-27.1",
+      "sha256": "965ab6d46076a93646ccf99b621adac4b48ad15a6932e8da0bb8aa0dd584caf6",
+      "bytes": 2767043,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-10-27.1.json"
     },
     "gst-instructions": {
       "version": "2026-10-18.1",
@@ -137,6 +137,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-27.1",
+      "date": "2026-10-27",
+      "note": "8 circulars 257-264/2026-GST + annual return matrix fixes"
+    },
+    {
       "version": "2026-10-25.2",
       "date": "2026-10-25",
       "note": "Tata Steel Ltd. v. Union of India (SLP admitted) case note"
@@ -230,11 +235,6 @@
       "version": "2026-10-08.1",
       "date": "2026-10-08",
       "note": "Updated: enrichment, caselaw"
-    },
-    {
-      "version": "2026-10-06.2",
-      "date": "2026-10-06",
-      "note": "Time/Value of Supply ICAI audit: Rule 28 personal-guarantee fix, Rule 32(5)/(7), Rule 33, s.15 NCB"
     }
   ]
 }
