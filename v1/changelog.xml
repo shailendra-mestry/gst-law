@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Wed, 28 Oct 2026 08:52:23 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 13:26:00 GMT</lastBuildDate>
+    <item>
+      <title>search-index tier stamps restored (regression since the #28 round)</title>
+      <pubDate>Wed, 28 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-28.2</guid>
+      <description>2026-10-28 · package 2026-10-28.2</description>
+    </item>
     <item>
       <title>Section 15/34/54 provision text: Finance Act 2026 commencement (Notification 03/2026-CT)</title>
       <pubDate>Wed, 28 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-13.1</guid>
       <description>2026-10-13 · package 2026-10-13.1</description>
-    </item>
-    <item>
-      <title>Updated: enrichment, caselaw</title>
-      <pubDate>Mon, 12 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-12.1</guid>
-      <description>2026-10-12 · package 2026-10-12.1</description>
     </item>
 </channel></rss>

@@ -105,10 +105,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/hsn-recode-2022.2026-10-21.1.json"
     },
     "search-index": {
-      "version": "2026-10-28.1",
-      "sha256": "a178cb77101fc30f77f1ee019b44af6a6ef2effe4acac9ba2c2960ea28ca7800",
-      "bytes": 962517,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-10-28.1.json"
+      "version": "2026-10-28.2",
+      "sha256": "34553fa5bdceb862a5cff21cf269086695387a7bb8bf024665279df27c9fac61",
+      "bytes": 970645,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-10-28.2.json"
     },
     "semantic-index": {
       "version": "2026-09-26.3",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-10-28.2",
+      "date": "2026-10-28",
+      "note": "search-index tier stamps restored (regression since the #28 round)"
+    },
     {
       "version": "2026-10-28.1",
       "date": "2026-10-28",
@@ -229,11 +234,6 @@
     {
       "version": "2026-10-13.1",
       "date": "2026-10-13",
-      "note": "Updated: enrichment, caselaw"
-    },
-    {
-      "version": "2026-10-12.1",
-      "date": "2026-10-12",
       "note": "Updated: enrichment, caselaw"
     }
   ]
