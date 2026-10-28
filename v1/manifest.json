@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-27",
+  "generatedAt": "2026-10-28",
   "datasets": {
     "meta": {
       "version": "2026-09-26.1",
@@ -21,10 +21,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-25.2.json"
     },
     "gst-notifications": {
-      "version": "2026-10-21.1",
-      "sha256": "0d51d59d29364b84fae4f00a64277c89bca5931ef64ab6989147e1e309d785ac",
-      "bytes": 8799082,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-10-21.1.json"
+      "version": "2026-10-28.1",
+      "sha256": "95d24bcd60999718fc5de16a1fae25004092b07104b9113fd0865e34f9a6263f",
+      "bytes": 9049315,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-10-28.1.json"
     },
     "gst-circulars": {
       "version": "2026-10-27.3",
@@ -137,6 +137,11 @@
   },
   "changelog": [
     {
+      "version": "2026-10-28.1",
+      "date": "2026-10-28",
+      "note": "3 CBIC notifications (03/04/05-2026-Central Tax): Finance Act 2026 ss.153-155 commencement, widened e-invoice mandate (RCM self-invoices/import of services), CGST (Amendment) Rules 2026"
+    },
+    {
       "version": "2026-10-27.3",
       "date": "2026-10-27",
       "note": "Circular table/link fixes + heading-depth fix (PR #18, #19)"
@@ -230,11 +235,6 @@
       "version": "2026-10-11.2",
       "date": "2026-10-11",
       "note": "Add GST press-release archive (197) + revenue time series (99 months); publish Ch.17-18 ICAI audit additions"
-    },
-    {
-      "version": "2026-10-11.2",
-      "date": "2026-10-11",
-      "note": "GST press-release archive (197) + revenue time series (99 months, PIB+GSTN); Ch.17-18 ICAI audit additions (s.82 IBC carve-out, advance-ruling maintainability, s.98 pending-proceedings)"
     }
   ]
 }
