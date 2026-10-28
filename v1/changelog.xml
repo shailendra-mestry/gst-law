@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Wed, 28 Oct 2026 05:23:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 08:52:23 GMT</lastBuildDate>
+    <item>
+      <title>Section 15/34/54 provision text: Finance Act 2026 commencement (Notification 03/2026-CT)</title>
+      <pubDate>Wed, 28 Oct 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-10-28.1</guid>
+      <description>2026-10-28 · package 2026-10-28.1</description>
+    </item>
     <item>
       <title>3 CBIC notifications (03/04/05-2026-Central Tax): Finance Act 2026 ss.153-155 commencement, widened e-invoice mandate (RCM self-invoices/import of services), CGST (Amendment) Rules 2026</title>
       <pubDate>Wed, 28 Oct 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Mon, 12 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-12.1</guid>
       <description>2026-10-12 · package 2026-10-12.1</description>
-    </item>
-    <item>
-      <title>Add GST press-release archive (197) + revenue time series (99 months); publish Ch.17-18 ICAI audit additions</title>
-      <pubDate>Sun, 11 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-11.2</guid>
-      <description>2026-10-11 · package 2026-10-11.2</description>
     </item>
 </channel></rss>

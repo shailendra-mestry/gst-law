@@ -3,16 +3,16 @@
   "generatedAt": "2026-10-28",
   "datasets": {
     "meta": {
-      "version": "2026-09-26.1",
-      "sha256": "956c077963839f958d3f5aa48229e4dbdd4578b461969b231d7f769fc73322ca",
+      "version": "2026-10-28.1",
+      "sha256": "5299a61f6b38f3686b532d95d3d8916d67ed4f348addc7e3df3ffa1baeb1508e",
       "bytes": 1785,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-09-26.1.json"
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-10-28.1.json"
     },
     "enrichment": {
-      "version": "2026-10-27.1",
-      "sha256": "d603674e005157d126ac4e24be8ab05094bed00e24754bcc4bca9849d1742fb4",
-      "bytes": 1018988,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-27.1.json"
+      "version": "2026-10-28.1",
+      "sha256": "0396174e1c270c209fcc606f499fbe5fb7099cda78222d0433e334e37662df8b",
+      "bytes": 1019654,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-28.1.json"
     },
     "caselaw": {
       "version": "2026-10-25.2",
@@ -105,10 +105,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/hsn-recode-2022.2026-10-21.1.json"
     },
     "search-index": {
-      "version": "2026-09-26.1",
-      "sha256": "34553fa5bdceb862a5cff21cf269086695387a7bb8bf024665279df27c9fac61",
-      "bytes": 970645,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-09-26.1.json"
+      "version": "2026-10-28.1",
+      "sha256": "a178cb77101fc30f77f1ee019b44af6a6ef2effe4acac9ba2c2960ea28ca7800",
+      "bytes": 962517,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-10-28.1.json"
     },
     "semantic-index": {
       "version": "2026-09-26.3",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-10-28.1",
+      "date": "2026-10-28",
+      "note": "Section 15/34/54 provision text: Finance Act 2026 commencement (Notification 03/2026-CT)"
+    },
     {
       "version": "2026-10-28.1",
       "date": "2026-10-28",
@@ -230,11 +235,6 @@
       "version": "2026-10-12.1",
       "date": "2026-10-12",
       "note": "Updated: enrichment, caselaw"
-    },
-    {
-      "version": "2026-10-11.2",
-      "date": "2026-10-11",
-      "note": "Add GST press-release archive (197) + revenue time series (99 months); publish Ch.17-18 ICAI audit additions"
     }
   ]
 }
