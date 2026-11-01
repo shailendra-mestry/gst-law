@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Wed, 28 Oct 2026 13:26:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 10:19:23 GMT</lastBuildDate>
+    <item>
+      <title>Instruction 02/2026-GST (arrest halt, SCN floor, e-way-bill safeguards); notif-05 rules content (r54/60/62/63/86 Explained + 11 pending-wording notices); hyphen-join PDF-parsing fix</title>
+      <pubDate>Sun, 01 Nov 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-01.1</guid>
+      <description>2026-11-01 · package 2026-11-01.1</description>
+    </item>
     <item>
       <title>search-index tier stamps restored (regression since the #28 round)</title>
       <pubDate>Wed, 28 Oct 2026 06:30:00 GMT</pubDate>
@@ -114,12 +120,6 @@
     </item>
     <item>
       <title>Updated: gst-rates</title>
-      <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-13.1</guid>
-      <description>2026-10-13 · package 2026-10-13.1</description>
-    </item>
-    <item>
-      <title>Updated: enrichment, caselaw</title>
       <pubDate>Tue, 13 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-13.1</guid>
       <description>2026-10-13 · package 2026-10-13.1</description>

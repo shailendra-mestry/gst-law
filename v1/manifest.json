@@ -1,18 +1,18 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-28",
+  "generatedAt": "2026-11-01",
   "datasets": {
     "meta": {
-      "version": "2026-10-28.1",
-      "sha256": "5299a61f6b38f3686b532d95d3d8916d67ed4f348addc7e3df3ffa1baeb1508e",
+      "version": "2026-11-01.1",
+      "sha256": "fb85d3cbbd377d4a015c09a5b665ae260a5306ea1c24fd677fcd07742e7ccda5",
       "bytes": 1785,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-10-28.1.json"
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-11-01.1.json"
     },
     "enrichment": {
-      "version": "2026-10-28.1",
-      "sha256": "0396174e1c270c209fcc606f499fbe5fb7099cda78222d0433e334e37662df8b",
-      "bytes": 1019654,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-10-28.1.json"
+      "version": "2026-11-01.1",
+      "sha256": "4df79c812e1196cf944cfac2c6d6d30e2e42a9b3c98c165d5734f78e1bd2e71d",
+      "bytes": 1029578,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-11-01.1.json"
     },
     "caselaw": {
       "version": "2026-10-25.2",
@@ -21,10 +21,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-25.2.json"
     },
     "gst-notifications": {
-      "version": "2026-10-28.1",
-      "sha256": "95d24bcd60999718fc5de16a1fae25004092b07104b9113fd0865e34f9a6263f",
-      "bytes": 9049315,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-10-28.1.json"
+      "version": "2026-11-01.1",
+      "sha256": "dc95aff6783ee79a41486512a163cdeb41fc776246378368a71b2a8febd1b9d9",
+      "bytes": 9049231,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-01.1.json"
     },
     "gst-circulars": {
       "version": "2026-10-27.3",
@@ -33,16 +33,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-10-27.3.json"
     },
     "gst-instructions": {
-      "version": "2026-10-18.1",
-      "sha256": "00aa34930e40f784a6a167da2bf97cafd5fe10e563e48ce4dfb31f0312140181",
-      "bytes": 392613,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-instructions.2026-10-18.1.json"
+      "version": "2026-11-01.1",
+      "sha256": "fef5a7b1a0717c94cd09c30c3adce11d9410cb6209dc63ca09e598f9364b625e",
+      "bytes": 399558,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-instructions.2026-11-01.1.json"
     },
     "gst-orders": {
-      "version": "2026-09-27.1",
-      "sha256": "0cd9450beeec12db0f9523a14d6e65ae26d483fba2a87d92a4175529832eecdc",
+      "version": "2026-11-01.1",
+      "sha256": "63d24ca61c7b01cfad800a3360c0d23993605d893977b4d552739052a892e9a6",
       "bytes": 83802,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-orders.2026-09-27.1.json"
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-orders.2026-11-01.1.json"
     },
     "instrument-status": {
       "version": "2026-09-26.1",
@@ -105,10 +105,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/hsn-recode-2022.2026-10-21.1.json"
     },
     "search-index": {
-      "version": "2026-10-28.2",
-      "sha256": "34553fa5bdceb862a5cff21cf269086695387a7bb8bf024665279df27c9fac61",
-      "bytes": 970645,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-10-28.2.json"
+      "version": "2026-11-01.1",
+      "sha256": "597ab2be305e4a6ce406233a5fd6453163260d7924e4868d05959b6a3529802a",
+      "bytes": 970731,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-11-01.1.json"
     },
     "semantic-index": {
       "version": "2026-09-26.3",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-11-01.1",
+      "date": "2026-11-01",
+      "note": "Instruction 02/2026-GST (arrest halt, SCN floor, e-way-bill safeguards); notif-05 rules content (r54/60/62/63/86 Explained + 11 pending-wording notices); hyphen-join PDF-parsing fix"
+    },
     {
       "version": "2026-10-28.2",
       "date": "2026-10-28",
@@ -230,11 +235,6 @@
       "version": "2026-10-13.1",
       "date": "2026-10-13",
       "note": "Updated: gst-rates"
-    },
-    {
-      "version": "2026-10-13.1",
-      "date": "2026-10-13",
-      "note": "Updated: enrichment, caselaw"
     }
   ]
 }
