@@ -1,7 +1,7 @@
 {
   "edition": "CBIC GST Portal (taxinformation.cbic.gov.in)",
   "amendedUpto": "2026-03-31",
-  "parsedOn": "2026-11-01",
+  "parsedOn": "2026-11-02",
   "disclaimer": "Statutory text reproduced from the CBIC GST Portal (taxinformation.cbic.gov.in), amendments to 31 March 2026, for study and reference. Verify against the Gazette / CBIC before any authoritative use. Not legal advice.",
   "source": "GST Act(s) and Rule(s)-Bare Law.md",
   "acts": {
@@ -58,9 +58,9 @@
     "provisions": 484,
     "sections": 262,
     "rules": 222,
-    "amendments": 906,
+    "amendments": 910,
     "instruments": 130,
-    "forms": 195,
+    "forms": 201,
     "definitions": 168,
     "schedules": 3,
     "practiceNotes": 4
