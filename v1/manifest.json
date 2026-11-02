@@ -21,10 +21,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-25.2.json"
     },
     "gst-notifications": {
-      "version": "2026-11-02.1",
-      "sha256": "5223eb550f2823c43672dda12054ae93338c6e29598f3807e83a1f6895dba6a4",
-      "bytes": 9171976,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-02.1.json"
+      "version": "2026-11-02.2",
+      "sha256": "62ee7ae0ea4651be70ff8ccfc97c846e2ee1af031aaa418f585354d170ccbed9",
+      "bytes": 9174333,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-02.2.json"
     },
     "gst-circulars": {
       "version": "2026-11-02.1",
@@ -137,6 +137,11 @@
   },
   "changelog": [
     {
+      "version": "2026-11-02.2",
+      "date": "2026-11-02",
+      "note": "Notification 07/2026-Central Tax: backfilled missing full text"
+    },
+    {
       "version": "2026-11-02.1",
       "date": "2026-11-02",
       "note": "Rules 19/20/21 (notif-05); 27 rate notifications + circulars 265/266 (57th Council); 11 advisories + Notification 07/2026-CT"
@@ -230,11 +235,6 @@
       "version": "2026-10-14.2",
       "date": "2026-10-14",
       "note": "10/2025-CT(R)'s Annexure-II (\"List of indigenous handmade musical instruments\", cited by Sch S.No. 161) no longer leaks its own 1-134 item list as 12 fake top-level, HSN-less goods entries (Elathalam, Geger, etc.) \u2014 its last, short page fell through a text-length heuristic meant to keep annexure content out of the rate table"
-    },
-    {
-      "version": "2026-10-14.1",
-      "date": "2026-10-14",
-      "note": "02/2017-CT(R) exemption-list parser no longer silently drops a row whose HSN code's first digit was split off by a stray PDF space glyph (Electrical energy now shows its correct 2017 baseline); renewable energy devices (HSN 84/85/94) now cite their real 2017 line (Sch I S.No.234) instead of the unrelated Pawan Chakki entry"
     }
   ]
 }

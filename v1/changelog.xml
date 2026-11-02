@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Mon, 02 Nov 2026 06:04:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 08:03:10 GMT</lastBuildDate>
+    <item>
+      <title>Notification 07/2026-Central Tax: backfilled missing full text</title>
+      <pubDate>Mon, 02 Nov 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-02.2</guid>
+      <description>2026-11-02 · package 2026-11-02.2</description>
+    </item>
     <item>
       <title>Rules 19/20/21 (notif-05); 27 rate notifications + circulars 265/266 (57th Council); 11 advisories + Notification 07/2026-CT</title>
       <pubDate>Mon, 02 Nov 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-14.2</guid>
       <description>2026-10-14 · package 2026-10-14.2</description>
-    </item>
-    <item>
-      <title>02/2017-CT(R) exemption-list parser no longer silently drops a row whose HSN code's first digit was split off by a stray PDF space glyph (Electrical energy now shows its correct 2017 baseline); renewable energy devices (HSN 84/85/94) now cite their real 2017 line (Sch I S.No.234) instead of the unrelated Pawan Chakki entry</title>
-      <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-14.1</guid>
-      <description>2026-10-14 · package 2026-10-14.1</description>
     </item>
 </channel></rss>
