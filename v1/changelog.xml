@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Mon, 02 Nov 2026 10:14:53 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 11:06:39 GMT</lastBuildDate>
+    <item>
+      <title>Fix: 06/07-2026-CT sort order</title>
+      <pubDate>Mon, 02 Nov 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-02.4</guid>
+      <description>2026-11-02 · package 2026-11-02.4</description>
+    </item>
     <item>
       <title>Notification 06/2026-Central Tax added; gists for 06/07-2026-CT</title>
       <pubDate>Mon, 02 Nov 2026 06:30:00 GMT</pubDate>
@@ -111,12 +117,6 @@
       <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-14.3</guid>
       <description>2026-10-14 · package 2026-10-14.3</description>
-    </item>
-    <item>
-      <title>Updated: gstn-advisories</title>
-      <pubDate>Wed, 14 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-14.2</guid>
-      <description>2026-10-14 · package 2026-10-14.2</description>
     </item>
     <item>
       <title>Updated: gstn-advisories</title>
