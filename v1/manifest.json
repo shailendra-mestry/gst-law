@@ -3,10 +3,10 @@
   "generatedAt": "2026-11-03",
   "datasets": {
     "meta": {
-      "version": "2026-11-03.1",
-      "sha256": "12c2f6d6299e4887dfb3acb68e5e59e547fe529fe824ab0e4670e3a448f9a46c",
+      "version": "2026-11-03.2",
+      "sha256": "b767f39e52a8973b3125c9562e2925016fe2bf5546af506639549d5bd0a3cf74",
       "bytes": 1785,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-11-03.1.json"
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-11-03.2.json"
     },
     "enrichment": {
       "version": "2026-11-03.1",
@@ -105,10 +105,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/hsn-recode-2022.2026-10-21.1.json"
     },
     "search-index": {
-      "version": "2026-11-03.1",
-      "sha256": "f74e4e3e2945c856728974c750c77ce969b8c225a6598b516c08393482c0ef10",
-      "bytes": 972008,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-11-03.1.json"
+      "version": "2026-11-03.2",
+      "sha256": "1c66f70e539f38540cc75f42df0aa776538406dbcb523aeedb5efe164bfa083b",
+      "bytes": 980183,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/search-index.2026-11-03.2.json"
     },
     "semantic-index": {
       "version": "2026-09-26.3",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-11-03.2",
+      "date": "2026-11-03",
+      "note": "Fix: restore missing search-index tier stamps"
+    },
     {
       "version": "2026-11-03.1",
       "date": "2026-11-03",
@@ -230,11 +235,6 @@
       "version": "2026-10-15.1",
       "date": "2026-10-15",
       "note": "Updated: enrichment, caselaw"
-    },
-    {
-      "version": "2026-10-14.3",
-      "date": "2026-10-14",
-      "note": "Updated: gst-rates"
     }
   ]
 }
