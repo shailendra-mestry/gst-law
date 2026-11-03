@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-26.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-11-03.1",
-      "sha256": "fc64446ad5bc0b2bc5868b09a84a22dd606475eae3ebf05306e1116078038425",
-      "bytes": 1218160,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-11-03.1.json"
+      "version": "2026-11-03.2",
+      "sha256": "ed1983f9538e641ab2cde9ce5f3fdb12d0ae9d73235247983712b3648ad75cf0",
+      "bytes": 1217301,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-11-03.2.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-11-03.2",
+      "date": "2026-11-03",
+      "note": "Advisory 210: removed duplicated content block"
+    },
     {
       "version": "2026-11-03.2",
       "date": "2026-11-03",
@@ -230,11 +235,6 @@
       "version": "2026-10-16.1",
       "date": "2026-10-16",
       "note": "advisory 678 \u2014 Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under"
-    },
-    {
-      "version": "2026-10-15.1",
-      "date": "2026-10-15",
-      "note": "Updated: enrichment, caselaw"
     }
   ]
 }
