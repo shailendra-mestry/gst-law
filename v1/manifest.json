@@ -21,22 +21,22 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-25.2.json"
     },
     "gst-notifications": {
-      "version": "2026-11-02.4",
-      "sha256": "7da64a4a5383c55426223d8d6b9bc898c2a9d98cd5954ba4c566164db142cfd6",
-      "bytes": 9178492,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-02.4.json"
+      "version": "2026-11-03.1",
+      "sha256": "64606d0f1d24837733a2987485ae4491e8d5e7c5bdca80e46b127b320800d812",
+      "bytes": 9178242,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-03.1.json"
     },
     "gst-circulars": {
-      "version": "2026-11-02.1",
-      "sha256": "5aa19007ba3ec468b70ebccdd6ed7bb7ab29b04e83a31015fde23fdfe9b3ee3c",
-      "bytes": 2794573,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-11-02.1.json"
+      "version": "2026-11-03.1",
+      "sha256": "d22bdacf4c558a2b451e789a175f32472995a9948871120c1549b387ff4e883d",
+      "bytes": 2794543,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-11-03.1.json"
     },
     "gst-instructions": {
-      "version": "2026-11-01.1",
-      "sha256": "fef5a7b1a0717c94cd09c30c3adce11d9410cb6209dc63ca09e598f9364b625e",
-      "bytes": 399558,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-instructions.2026-11-01.1.json"
+      "version": "2026-11-03.1",
+      "sha256": "c2e3de4c3cadce8c0e090659293c3738a064fd112ee75372792949f1c8c53fc8",
+      "bytes": 399548,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-instructions.2026-11-03.1.json"
     },
     "gst-orders": {
       "version": "2026-11-01.1",
@@ -139,6 +139,11 @@
     {
       "version": "2026-11-03.2",
       "date": "2026-11-03",
+      "note": "Late-fee extension matching + 29 split section/rule references rejoined"
+    },
+    {
+      "version": "2026-11-03.2",
+      "date": "2026-11-03",
       "note": "Advisory 210: removed duplicated content block"
     },
     {
@@ -230,11 +235,6 @@
       "version": "2026-10-18.1",
       "date": "2026-10-18",
       "note": "Fix: table rows that wrap across a PDF grid row were splitting mid-sentence \u2014 merged back across circulars/notifications/instructions"
-    },
-    {
-      "version": "2026-10-16.1",
-      "date": "2026-10-16",
-      "note": "advisory 678 \u2014 Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under"
     }
   ]
 }

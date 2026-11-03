@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Tue, 03 Nov 2026 08:40:21 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 13:21:07 GMT</lastBuildDate>
+    <item>
+      <title>Late-fee extension matching + 29 split section/rule references rejoined</title>
+      <pubDate>Tue, 03 Nov 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-03.2</guid>
+      <description>2026-11-03 · package 2026-11-03.2</description>
+    </item>
     <item>
       <title>Advisory 210: removed duplicated content block</title>
       <pubDate>Tue, 03 Nov 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Sun, 18 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-18.1</guid>
       <description>2026-10-18 · package 2026-10-18.1</description>
-    </item>
-    <item>
-      <title>advisory 678 — Introduction of e-Invoicing Facility for Recipient Generated Self Invoices under</title>
-      <pubDate>Fri, 16 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-16.1</guid>
-      <description>2026-10-16 · package 2026-10-16.1</description>
     </item>
 </channel></rss>
