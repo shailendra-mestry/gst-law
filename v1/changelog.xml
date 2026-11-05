@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Tue, 03 Nov 2026 13:21:07 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 17:00:37 GMT</lastBuildDate>
+    <item>
+      <title>GSTN advisory 687: e-way bill numbering format revision</title>
+      <pubDate>Thu, 05 Nov 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-05.1</guid>
+      <description>2026-11-05 · package 2026-11-05.1</description>
+    </item>
     <item>
       <title>Late-fee extension matching + 29 split section/rule references rejoined</title>
       <pubDate>Tue, 03 Nov 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Tue, 20 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-20.1</guid>
       <description>2026-10-20 · package 2026-10-20.1</description>
-    </item>
-    <item>
-      <title>Fix: table rows that wrap across a PDF grid row were splitting mid-sentence — merged back across circulars/notifications/instructions</title>
-      <pubDate>Sun, 18 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-18.1</guid>
-      <description>2026-10-18 · package 2026-10-18.1</description>
     </item>
 </channel></rss>

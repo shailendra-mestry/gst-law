@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-03",
+  "generatedAt": "2026-11-05",
   "datasets": {
     "meta": {
       "version": "2026-11-03.2",
@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-26.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-11-03.2",
-      "sha256": "ed1983f9538e641ab2cde9ce5f3fdb12d0ae9d73235247983712b3648ad75cf0",
-      "bytes": 1217301,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-11-03.2.json"
+      "version": "2026-11-05.1",
+      "sha256": "6358d2095ed7bbdc3ec4e795295b6a6acf8f1cb11007ed9a833c533848eb43a6",
+      "bytes": 1218693,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-11-05.1.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-11-05.1",
+      "date": "2026-11-05",
+      "note": "GSTN advisory 687: e-way bill numbering format revision"
+    },
     {
       "version": "2026-11-03.2",
       "date": "2026-11-03",
@@ -230,11 +235,6 @@
       "version": "2026-10-20.1",
       "date": "2026-10-20",
       "note": "New case law: Shaurya Alloys Pvt. Ltd. v. State of Punjab (P&H HC, 01.10.2026) \u2014 section 16(2)(c) ITC denial for supplier default, 14 guidelines"
-    },
-    {
-      "version": "2026-10-18.1",
-      "date": "2026-10-18",
-      "note": "Fix: table rows that wrap across a PDF grid row were splitting mid-sentence \u2014 merged back across circulars/notifications/instructions"
     }
   ]
 }
