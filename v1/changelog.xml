@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Thu, 05 Nov 2026 17:00:37 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 06:22:22 GMT</lastBuildDate>
+    <item>
+      <title>Updated: meta, enrichment</title>
+      <pubDate>Mon, 09 Nov 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-09.1</guid>
+      <description>2026-11-09 · package 2026-11-09.1</description>
+    </item>
     <item>
       <title>GSTN advisory 687: e-way bill numbering format revision</title>
       <pubDate>Thu, 05 Nov 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Wed, 21 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-21.1</guid>
       <description>2026-10-21 · package 2026-10-21.1</description>
-    </item>
-    <item>
-      <title>New case law: Shaurya Alloys Pvt. Ltd. v. State of Punjab (P&amp;H HC, 01.10.2026) — section 16(2)(c) ITC denial for supplier default, 14 guidelines</title>
-      <pubDate>Tue, 20 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-20.1</guid>
-      <description>2026-10-20 · package 2026-10-20.1</description>
     </item>
 </channel></rss>

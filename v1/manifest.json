@@ -1,18 +1,18 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-05",
+  "generatedAt": "2026-11-09",
   "datasets": {
     "meta": {
-      "version": "2026-11-03.2",
-      "sha256": "b767f39e52a8973b3125c9562e2925016fe2bf5546af506639549d5bd0a3cf74",
+      "version": "2026-11-09.1",
+      "sha256": "29aea60ea6bc02f0cbb8c1c858d4d9e9e82631eeeb6d5227735be98bce91ac2c",
       "bytes": 1785,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-11-03.2.json"
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-11-09.1.json"
     },
     "enrichment": {
-      "version": "2026-11-03.1",
-      "sha256": "3493c7ba407b44ded1121123ce78011ec8cccfd18b7ede3c3538e2aa35d9c012",
-      "bytes": 1038028,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-11-03.1.json"
+      "version": "2026-11-09.1",
+      "sha256": "3a12a895e50d0f5b758e1548e98a39dd124479f83b8a4ee654368234339a1071",
+      "bytes": 1038036,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-11-09.1.json"
     },
     "caselaw": {
       "version": "2026-10-25.2",
@@ -137,6 +137,11 @@
   },
   "changelog": [
     {
+      "version": "2026-11-09.1",
+      "date": "2026-11-09",
+      "note": "Updated: meta, enrichment"
+    },
+    {
       "version": "2026-11-05.1",
       "date": "2026-11-05",
       "note": "GSTN advisory 687: e-way bill numbering format revision"
@@ -230,11 +235,6 @@
       "version": "2026-10-21.1",
       "date": "2026-10-21",
       "note": "472 HS-2022 HSN recodes (standalone lookup); table row-split column-shift fix (22 notifications, 3 circulars)"
-    },
-    {
-      "version": "2026-10-20.1",
-      "date": "2026-10-20",
-      "note": "New case law: Shaurya Alloys Pvt. Ltd. v. State of Punjab (P&H HC, 01.10.2026) \u2014 section 16(2)(c) ITC denial for supplier default, 14 guidelines"
     }
   ]
 }
