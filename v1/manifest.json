@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-09",
+  "generatedAt": "2026-11-10",
   "datasets": {
     "meta": {
       "version": "2026-11-09.1",
@@ -81,10 +81,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-revenue.2026-11-02.1.json"
     },
     "gst-forms": {
-      "version": "2026-09-26.1",
-      "sha256": "5343ce8baa2a6387d4eef21a30d881b37d3c9ef9309581c455058abf19e38da7",
-      "bytes": 819772,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-09-26.1.json"
+      "version": "2026-11-10.1",
+      "sha256": "12d7e6644219c0919bbca2bd62ce3f731b2e3e72ef3d6a886145074f14a4d52e",
+      "bytes": 845527,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-11-10.1.json"
     },
     "gst-rates": {
       "version": "2026-11-02.1",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-11-10.1",
+      "date": "2026-11-10",
+      "note": "Updated: gst-forms"
+    },
     {
       "version": "2026-11-09.1",
       "date": "2026-11-09",
@@ -230,11 +235,6 @@
       "version": "2026-10-25.1",
       "date": "2026-10-25",
       "note": "Devendra Singh v. Hema Industries + Star Raison Landmarks v. Chief Commissioner case law"
-    },
-    {
-      "version": "2026-10-21.1",
-      "date": "2026-10-21",
-      "note": "472 HS-2022 HSN recodes (standalone lookup); table row-split column-shift fix (22 notifications, 3 circulars)"
     }
   ]
 }
