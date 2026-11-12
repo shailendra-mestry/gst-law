@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-10",
+  "generatedAt": "2026-11-12",
   "datasets": {
     "meta": {
       "version": "2026-11-09.1",
@@ -21,16 +21,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-25.2.json"
     },
     "gst-notifications": {
-      "version": "2026-11-03.1",
-      "sha256": "64606d0f1d24837733a2987485ae4491e8d5e7c5bdca80e46b127b320800d812",
-      "bytes": 9178242,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-03.1.json"
+      "version": "2026-11-12.1",
+      "sha256": "fe1cbbdc07e37790dfa65b850fb3428b72da5f291e6c77424d2140f7c40f16bb",
+      "bytes": 9213259,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-12.1.json"
     },
     "gst-circulars": {
-      "version": "2026-11-03.1",
-      "sha256": "d22bdacf4c558a2b451e789a175f32472995a9948871120c1549b387ff4e883d",
-      "bytes": 2794543,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-11-03.1.json"
+      "version": "2026-11-12.1",
+      "sha256": "446ccbad4a1a67e3b5ebc2003edb78a4e50dfcab39f300ef5f01b30b85b0ea1d",
+      "bytes": 2795950,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-11-12.1.json"
     },
     "gst-instructions": {
       "version": "2026-11-03.1",
@@ -81,10 +81,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-revenue.2026-11-02.1.json"
     },
     "gst-forms": {
-      "version": "2026-11-10.1",
-      "sha256": "12d7e6644219c0919bbca2bd62ce3f731b2e3e72ef3d6a886145074f14a4d52e",
-      "bytes": 845527,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-11-10.1.json"
+      "version": "2026-11-12.1",
+      "sha256": "11678009bf4626d6ce3d686f918d5b56c5141b0f71c3946e47399ca3bbd94ca6",
+      "bytes": 845879,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-11-12.1.json"
     },
     "gst-rates": {
       "version": "2026-11-02.1",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-11-12.1",
+      "date": "2026-11-12",
+      "note": "Updated: gst-notifications, gst-circulars, gst-forms"
+    },
     {
       "version": "2026-11-10.1",
       "date": "2026-11-10",
@@ -230,11 +235,6 @@
       "version": "2026-10-25.2",
       "date": "2026-10-25",
       "note": "Tata Steel Ltd. v. Union of India (SLP admitted) case note"
-    },
-    {
-      "version": "2026-10-25.1",
-      "date": "2026-10-25",
-      "note": "Devendra Singh v. Hema Industries + Star Raison Landmarks v. Chief Commissioner case law"
     }
   ]
 }
