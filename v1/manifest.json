@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-12",
+  "generatedAt": "2026-11-13",
   "datasets": {
     "meta": {
       "version": "2026-11-09.1",
@@ -81,10 +81,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-revenue.2026-11-02.1.json"
     },
     "gst-forms": {
-      "version": "2026-11-12.1",
-      "sha256": "11678009bf4626d6ce3d686f918d5b56c5141b0f71c3946e47399ca3bbd94ca6",
-      "bytes": 845879,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-11-12.1.json"
+      "version": "2026-11-13.1",
+      "sha256": "2206a9ae5c167fee1b715d57e7b3da4e099ada41ce9724bcf7de3dbcbf7c5ea2",
+      "bytes": 846896,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-forms.2026-11-13.1.json"
     },
     "gst-rates": {
       "version": "2026-11-02.1",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-11-13.1",
+      "date": "2026-11-13",
+      "note": "Updated: gst-forms"
+    },
     {
       "version": "2026-11-12.1",
       "date": "2026-11-12",
@@ -230,11 +235,6 @@
       "version": "2026-10-27.1",
       "date": "2026-10-27",
       "note": "8 circulars 257-264/2026-GST + annual return matrix fixes"
-    },
-    {
-      "version": "2026-10-25.2",
-      "date": "2026-10-25",
-      "note": "Tata Steel Ltd. v. Union of India (SLP admitted) case note"
     }
   ]
 }

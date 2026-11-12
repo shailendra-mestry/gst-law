@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Thu, 12 Nov 2026 20:02:31 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 20:03:40 GMT</lastBuildDate>
+    <item>
+      <title>Updated: gst-forms</title>
+      <pubDate>Fri, 13 Nov 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-13.1</guid>
+      <description>2026-11-13 · package 2026-11-13.1</description>
+    </item>
     <item>
       <title>Updated: gst-notifications, gst-circulars, gst-forms</title>
       <pubDate>Thu, 12 Nov 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Tue, 27 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-27.1</guid>
       <description>2026-10-27 · package 2026-10-27.1</description>
-    </item>
-    <item>
-      <title>Tata Steel Ltd. v. Union of India (SLP admitted) case note</title>
-      <pubDate>Sun, 25 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-25.2</guid>
-      <description>2026-10-25 · package 2026-10-25.2</description>
     </item>
 </channel></rss>
