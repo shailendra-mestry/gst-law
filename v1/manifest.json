@@ -51,10 +51,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-26.1.json"
     },
     "gstn-advisories": {
-      "version": "2026-11-22.1",
-      "sha256": "9d954242dc665199ea24f62e62c85c862e2a73d17fe3e5ab5f4167054f758e90",
-      "bytes": 1223172,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-11-22.1.json"
+      "version": "2026-11-22.2",
+      "sha256": "bc4dd78918a8fc47eabc1a338241adc2d2e43290a1b1db75885190532e2fcfb3",
+      "bytes": 1225940,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gstn-advisories.2026-11-22.2.json"
     },
     "gst-faqs": {
       "version": "2026-09-03.1",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-11-22.2",
+      "date": "2026-11-22",
+      "note": "Updated: gstn-advisories"
+    },
     {
       "version": "2026-11-22.1",
       "date": "2026-11-22",
@@ -230,11 +235,6 @@
       "version": "2026-10-27.2",
       "date": "2026-10-27",
       "note": "Plain-English gists added to 8 circulars (257-264/2026-GST)"
-    },
-    {
-      "version": "2026-10-27.1",
-      "date": "2026-10-27",
-      "note": "8 circulars 257-264/2026-GST + annual return matrix fixes"
     }
   ]
 }
