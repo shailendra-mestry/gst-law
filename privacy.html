@@ -23,25 +23,59 @@
 <body>
 
 <h1>Privacy Policy — GST law</h1>
-<p class="meta">App: <code>com.gstlaw.app</code> · Last updated: 9 September 2026 · Contact: <a href="mailto:aniketashokmestry@gmail.com">aniketashokmestry@gmail.com</a></p>
+<p class="meta">App: <code>com.gstlaw.app</code> · Last updated: 18 November 2026 · Contact: <a href="mailto:aniketashokmestry@gmail.com">aniketashokmestry@gmail.com</a></p>
 
-<p><strong>GST law has no account and no sign-in. The developer does not run
-any server that stores your data, and does not use analytics or crash
-reporting.</strong> Everything you create in the app stays on your device. The
-one exception is advertising, described below: the app shows banner ads through
+<p><strong>Signing in with Google is optional — the app works fully offline
+without it, exactly as before.</strong> If you don't sign in, the developer
+runs no server that stores your data, and uses no analytics or crash
+reporting; everything you create in the app stays on your device. If you do
+sign in, your bookmarks, notebook, reading history and settings sync to that
+Google account — see "Signing in and cloud sync" below. The other exception,
+whether or not you sign in, is advertising: the app shows banner ads through
 Google AdMob, and Google — as the advertising provider — collects some data to
 serve and measure those ads.</p>
 
 <h2>What stays on your device</h2>
-<p>Everything you do in the app is stored only in the app's private storage on
-your own device, and is never sent to the developer:</p>
+<p>Whether or not you sign in, the app stores the following only in its
+private storage on your own device, and never sends it to the developer:</p>
 <ul>
   <li>your bookmarks, reading history and scroll positions;</li>
   <li>your private notes and "client matter" tags (the Notebook);</li>
   <li>your settings — theme, text size, and similar preferences;</li>
   <li>your progress on checklists and flashcards.</li>
 </ul>
-<p>Uninstalling the app deletes all of it.</p>
+<p>If you've never signed in, none of this is linked to an account or any
+other person's data — there is no login, so there is nothing to link it to.
+Uninstalling the app deletes all of it.</p>
+
+<h2>Signing in and cloud sync</h2>
+<p>Profile → Sign in with Google is entirely optional and shows what it does
+before you sign in. Signing in creates a Firebase Authentication account from
+your Google profile — it stores your name, email address and profile photo,
+your Google account ID, and an account ID this app's own Firebase project
+assigns you. Once signed in, the
+following syncs to that account and down to any other device you sign in
+on:</p>
+<ul>
+  <li>your bookmarks;</li>
+  <li>your notebook notes and client-matter names — these can include
+  client-identifying research you've typed in, so treat sign-in like you
+  would any other account that holds that kind of material;</li>
+  <li>your reading and tool history — recently viewed provisions and pinned
+  tools (not your recent searches or recently-used-tools list, which stay
+  device-only);</li>
+  <li>your reading-related settings — theme, density, spacing, margin, font,
+  text alignment and similar display preferences (not text size, haptics or
+  your push-notification choice, which also stay device-only).</li>
+</ul>
+<p>This is stored in Cloud Firestore, inside this app's own Firebase project.
+Access rules restrict every other user to just their own data, never yours.
+The developer can technically access this database through the Firebase
+console, but does not look at it except to carry out a deletion request.</p>
+<p>Signing out stops syncing only — it does not delete anything. The data
+already on your device stays, and so does the cloud copy, which keeps
+syncing to any other device still signed in. To remove the cloud copies for
+good, delete your account — see "Data deletion" below.</p>
 
 <h2>Advertising</h2>
 <p>The app displays banner ads on its browsing screens (the Library, Search,
@@ -90,18 +124,35 @@ is not directed at children (see below).</p>
   <li><strong>Feedback.</strong> If you use a "send feedback" link, your own
   email app opens with a message pre-filled; nothing is sent unless you send it
   yourself.</li>
+  <li><strong>Push notifications.</strong> If you turn on "What's new (push)"
+  notifications, your device registers an anonymous push token — not linked
+  to your identity or your Google account, if any — with this app's own
+  Firebase project, used only to deliver that notification.</li>
 </ul>
 
 <h2>Data sharing and security</h2>
-<p>The developer does not sell your data and does not share it with anyone. The
-only data leaving your device is the advertising data collected by Google
-described above, and the technical fields sent to Expo for update delivery. All
-of these requests use HTTPS.</p>
+<p>The developer does not sell your data and does not share it with anyone.
+If you don't sign in, the only data leaving your device is the advertising
+data collected by Google described above, the technical fields sent to Expo
+for update delivery, and your anonymous push token if notifications are on.
+If you sign in, your synced data (described above) also leaves your device,
+stored in Cloud Firestore under access rules that restrict it to your own
+signed-in account. All of these requests use HTTPS.</p>
 
 <h2>Data deletion</h2>
-<p>There is no account to delete. To remove everything the app has stored,
-uninstall it. To reset the advertising identifier used for ads, use your
-device's <em>Settings → Privacy → Ads</em>. Questions:
+<p>If you've never signed in, there is no account and no server-side copy —
+to remove everything the app has stored, uninstall it. If you've signed in,
+<em>Profile → Account → Delete account</em> in the app permanently deletes
+your synced bookmarks, notebook, history and settings from the cloud, and
+your Firebase account itself; local data on this device is kept. If you
+can't or don't want to open the app, email a deletion request to the contact
+below, or use the
+<a href="delete-account.html">web deletion-request page</a>. We aim to act on
+a verified deletion request within 30 days. To reset the advertising
+identifier used for ads, use your device's <em>Settings → Privacy →
+Ads</em>.</p>
+<p><strong>Grievance / data contact</strong> (requests about your data,
+privacy, or a deletion request): Aniket Mestry —
 <a href="mailto:aniketashokmestry@gmail.com">aniketashokmestry@gmail.com</a>.</p>
 
 <h2>Permissions</h2>
