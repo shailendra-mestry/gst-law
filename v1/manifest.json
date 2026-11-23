@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-22",
+  "generatedAt": "2026-11-23",
   "datasets": {
     "meta": {
       "version": "2026-11-21.1",
@@ -9,16 +9,16 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/meta.2026-11-21.1.json"
     },
     "enrichment": {
-      "version": "2026-11-21.1",
-      "sha256": "eb0c45bd49b5bb73ada31055d3d46dccf7782ba5dd0abd74bda678f12b59a5a1",
-      "bytes": 1038196,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-11-21.1.json"
+      "version": "2026-11-23.1",
+      "sha256": "27a4b7b897e242a4e02a5fe053239d2d43db911cc7456b868dea3be3ee09cd1a",
+      "bytes": 1041643,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/enrichment.2026-11-23.1.json"
     },
     "caselaw": {
-      "version": "2026-10-25.2",
-      "sha256": "d373039dda18217809c2c6b2cf3b7e6e6418c094232c6f3f76a8b4dc4f11db73",
-      "bytes": 684741,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-10-25.2.json"
+      "version": "2026-11-23.1",
+      "sha256": "1bf0a17e1667a3361755e92f3a2796f09438c3c7e6836b630aff032fd3e7b0f3",
+      "bytes": 688453,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-11-23.1.json"
     },
     "gst-notifications": {
       "version": "2026-11-21.1",
@@ -27,10 +27,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-21.1.json"
     },
     "gst-circulars": {
-      "version": "2026-11-21.1",
-      "sha256": "446ccbad4a1a67e3b5ebc2003edb78a4e50dfcab39f300ef5f01b30b85b0ea1d",
-      "bytes": 2795950,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-11-21.1.json"
+      "version": "2026-11-23.1",
+      "sha256": "c0540f21a5428dec01e18f7f2a507dde863033b5cdccb69f1c48b513c45a0d92",
+      "bytes": 2795996,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-circulars.2026-11-23.1.json"
     },
     "gst-instructions": {
       "version": "2026-11-03.1",
@@ -45,10 +45,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-orders.2026-11-01.1.json"
     },
     "instrument-status": {
-      "version": "2026-09-26.1",
-      "sha256": "1cf161d9c987e29f532cd3c5141b39d5edfc0c32f1254b94ba88af3e605132ee",
-      "bytes": 21570,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-09-26.1.json"
+      "version": "2026-11-23.1",
+      "sha256": "e8d3bf82184eb11e5e6af0729e2a76b99e61de2a05d41a6ede0099c1e731ccbe",
+      "bytes": 22059,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/instrument-status.2026-11-23.1.json"
     },
     "gstn-advisories": {
       "version": "2026-11-22.2",
@@ -136,6 +136,11 @@
     }
   },
   "changelog": [
+    {
+      "version": "2026-11-23.1",
+      "date": "2026-11-23",
+      "note": "Exports hub support: Goodluck India case, status fixes"
+    },
     {
       "version": "2026-11-22.2",
       "date": "2026-11-22",
@@ -230,11 +235,6 @@
       "version": "2026-10-27.3",
       "date": "2026-10-27",
       "note": "Circular table/link fixes + heading-depth fix (PR #18, #19)"
-    },
-    {
-      "version": "2026-10-27.2",
-      "date": "2026-10-27",
-      "note": "Plain-English gists added to 8 circulars (257-264/2026-GST)"
     }
   ]
 }

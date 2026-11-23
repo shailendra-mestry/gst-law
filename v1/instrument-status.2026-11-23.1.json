@@ -1,5 +1,18 @@
 {
  "circulars": {
+  "1003230": {
+   "no": "231/25/2024-GST",
+   "status": "modified",
+   "events": [
+    {
+     "action": "modified",
+     "byNo": "262/08/2026-GST",
+     "byId": 1003353,
+     "byDate": "2026-10-26",
+     "gist": "lowed on such demo vehicles in both type of business models, including the dealer-agency model. 7. Accordingly, the clarification issued vide para 4.6 of circular No. 231/25/2024-GST dated 10.09.2024 is hereby withdrawn and it is clarified that the input tax c"
+    }
+   ]
+  },
   "1003209": {
    "no": "212/06/2024-GST",
    "status": "withdrawn",
@@ -539,10 +552,10 @@
   },
   "1001190": {
    "no": "9/2017-Integrated Tax (Rate)",
-   "status": "rescinded",
+   "status": "modified",
    "events": [
     {
-     "action": "rescinded",
+     "action": "modified",
      "byNo": "2/2019-Integrated Tax (Rate)",
      "byKind": "notification",
      "byId": 1001114,
