@@ -3,7 +3,13 @@
   <title>GST law — data updates</title>
   <link>https://shailendra-mestry.github.io/gst-law/v1/changelog.html</link>
   <description>Every data refresh shipped to the GST law app.</description>
-  <lastBuildDate>Mon, 23 Nov 2026 09:58:34 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 06:20:13 GMT</lastBuildDate>
+    <item>
+      <title>Added CBIC corrigendum (18 Nov 2026) to Notification 05/2026-Central Tax to the notifications list</title>
+      <pubDate>Tue, 24 Nov 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-11-24.1</guid>
+      <description>2026-11-24 · package 2026-11-24.1</description>
+    </item>
     <item>
       <title>Exports hub support: Goodluck India case, status fixes</title>
       <pubDate>Mon, 23 Nov 2026 06:30:00 GMT</pubDate>
@@ -117,11 +123,5 @@
       <pubDate>Wed, 28 Oct 2026 06:30:00 GMT</pubDate>
       <guid isPermaLink="false">2026-10-28.1</guid>
       <description>2026-10-28 · package 2026-10-28.1</description>
-    </item>
-    <item>
-      <title>Circular table/link fixes + heading-depth fix (PR #18, #19)</title>
-      <pubDate>Tue, 27 Oct 2026 06:30:00 GMT</pubDate>
-      <guid isPermaLink="false">2026-10-27.3</guid>
-      <description>2026-10-27 · package 2026-10-27.3</description>
     </item>
 </channel></rss>

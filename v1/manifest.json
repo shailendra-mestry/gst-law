@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-23",
+  "generatedAt": "2026-11-24",
   "datasets": {
     "meta": {
       "version": "2026-11-21.1",
@@ -21,10 +21,10 @@
       "url": "https://shailendra-mestry.github.io/gst-law/v1/caselaw.2026-11-23.1.json"
     },
     "gst-notifications": {
-      "version": "2026-11-21.1",
-      "sha256": "fe1cbbdc07e37790dfa65b850fb3428b72da5f291e6c77424d2140f7c40f16bb",
-      "bytes": 9213259,
-      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-21.1.json"
+      "version": "2026-11-24.1",
+      "sha256": "a760174dfcf2870ef43057c66f7c32c143ef18a458f854056bc3a1dc29410395",
+      "bytes": 9238024,
+      "url": "https://shailendra-mestry.github.io/gst-law/v1/gst-notifications.2026-11-24.1.json"
     },
     "gst-circulars": {
       "version": "2026-11-23.1",
@@ -137,6 +137,11 @@
   },
   "changelog": [
     {
+      "version": "2026-11-24.1",
+      "date": "2026-11-24",
+      "note": "Added CBIC corrigendum (18 Nov 2026) to Notification 05/2026-Central Tax to the notifications list"
+    },
+    {
       "version": "2026-11-23.1",
       "date": "2026-11-23",
       "note": "Exports hub support: Goodluck India case, status fixes"
@@ -230,11 +235,6 @@
       "version": "2026-10-28.1",
       "date": "2026-10-28",
       "note": "3 CBIC notifications (03/04/05-2026-Central Tax): Finance Act 2026 ss.153-155 commencement, widened e-invoice mandate (RCM self-invoices/import of services), CGST (Amendment) Rules 2026"
-    },
-    {
-      "version": "2026-10-27.3",
-      "date": "2026-10-27",
-      "note": "Circular table/link fixes + heading-depth fix (PR #18, #19)"
     }
   ]
 }
